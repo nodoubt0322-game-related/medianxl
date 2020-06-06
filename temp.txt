@@ -1,0 +1,130 @@
+
+		<tbody><tr>
+			<th colspan="3" class="item-unique">
+				The Barracuda (Crossbow)
+			</th>
+		</tr>
+		<tr>
+			<td rowspan="2">
+				<img src="https://docs.median-xl.com/images/baseitems/invmxb.jpg">
+			</td>
+			<td>
+				<span class="item-basic">
+					<b>
+						Tier 1
+					</b><br>
+					<span class="item-basic">
+						Two-Hand Damage:  
+					</span>
+					<span class="item-magic">
+						(12 - 14) to (24 - 31)<br>
+					</span>
+					<span class="item-basic">
+						Required Level: 5<br>
+						Required Strength: 66<br>
+						Item Level: 8<br>
+						Strength Damage Bonus: (0.18 per Strength)%<br>
+					</span>
+					<span class="item-magic">
+						+(1 to 2) to Amazon Skill Levels<br>
+						+10% Bonus Damage to Bloodlust<br>
+						5% Attack Speed<br>
+						+(18 to 35)% Enhanced Damage<br>
+						+(6 to 10) to Maximum Damage<br>
+						25% Bonus to Attack Rating<br>
+						(1 to 2)% Chance of Crushing Blow<br>
+						Socketed (2)<br>
+					</span>
+				</span>
+			</td>
+			<td>
+				<span class="item-basic">
+					<b>
+						Tier 2
+					</b><br>
+					<span class="item-basic">
+						Two-Hand Damage:  
+					</span>
+					<span class="item-magic">
+						(39 - 43) to (69 - 79)<br>
+					</span>
+					<span class="item-basic">
+						Required Level: 24<br>
+						Required Strength: 101<br>
+						Item Level: 27<br>
+						Strength Damage Bonus: (0.18 per Strength)%<br>
+					</span>
+					<span class="item-magic">
+						+(2 to 3) to Amazon Skill Levels<br>
+						+20% Bonus Damage to Bloodlust<br>
+						15% Attack Speed<br>
+						+(52 to 69)% Enhanced Damage<br>
+						+(16 to 20) to Maximum Damage<br>
+						50% Bonus to Attack Rating<br>
+						(3 to 4)% Chance of Crushing Blow<br>
+						Socketed (4)<br>
+					</span>
+				</span>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<span class="item-basic">
+					<b>
+						Tier 3
+					</b><br>
+					<span class="item-basic">
+						Two-Hand Damage:  
+					</span>
+					<span class="item-magic">
+						(82 - 89) to (136 - 149)<br>
+					</span>
+					<span class="item-basic">
+						Required Level: 42<br>
+						Required Strength: 202<br>
+						Item Level: 46<br>
+						Strength Damage Bonus: (0.18 per Strength)%<br>
+					</span>
+					<span class="item-magic">
+						+(3 to 4) to Amazon Skill Levels<br>
+						+30% Bonus Damage to Bloodlust<br>
+						25% Attack Speed<br>
+						+(87 to 103)% Enhanced Damage<br>
+						+(26 to 30) to Maximum Damage<br>
+						75% Bonus to Attack Rating<br>
+						(5 to 6)% Chance of Crushing Blow<br>
+						Socketed (5)<br>
+					</span>
+				</span>
+			</td>
+			<td>
+				<span class="item-basic">
+					<b>
+						Tier 4
+					</b><br>
+					<span class="item-basic">
+						Two-Hand Damage:  
+					</span>
+					<span class="item-magic">
+						(106 - 114) to (178 - 194)<br>
+					</span>
+					<span class="item-basic">
+						Required Level: 52<br>
+						Required Strength: 401<br>
+						Item Level: 82<br>
+						Strength Damage Bonus: (0.18 per Strength)%<br>
+					</span>
+					<span class="item-magic">
+						+(5 to 6) to Amazon Skill Levels<br>
+						+40% Bonus Damage to Bloodlust<br>
+						30% Attack Speed<br>
+						+(104 to 120)% Enhanced Damage<br>
+						+(36 to 40) to Maximum Damage<br>
+						100% Bonus to Attack Rating<br>
+						(7 to 8)% Chance of Crushing Blow<br>
+						Socketed (6)<br>
+					</span>
+				</span>
+			</td>
+		</tr>
+	</tbody>

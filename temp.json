@@ -1,0 +1,95 @@
+{
+  "id": 71,
+  "name": "Embershot (Repeating Crossbow)",
+  "img": "https://docs.median-xl.com/images/baseitems/invrxb.jpg",
+  "info": [
+    {
+      "tier": "Tier 1",
+      "damage": [
+        "Two-Hand Damage: (22 - 24) to (36 - 40)"
+      ],
+      "requirement": [
+        "Required Level: 11",
+        "Required Strength: 103",
+        "Item Level: 18",
+        "Strength Damage Bonus: (0.18 per Strength)%"
+      ],
+      "attribute": [
+        "14% Chance to cast level 8 Flamefront on Kill",
+        "+(30 to 46)% Enhanced Damage",
+        "Adds (11 to 15)-(21 to 25) fire damage",
+        "-(6 to 8)% to Enemy Fire Resistance",
+        "+20 to Strength",
+        "+20 to Vitality",
+        "Fire Absorb 2%",
+        "Socketed (2)"
+      ]
+    },
+    {
+      "tier": "Tier 2",
+      "damage": [
+        "Two-Hand Damage: (60 - 66) to (90 - 99)"
+      ],
+      "requirement": [
+        "Required Level: 30",
+        "Required Strength: 150",
+        "Item Level: 33",
+        "Strength Damage Bonus: (0.18 per Strength)%"
+      ],
+      "attribute": [
+        "16% Chance to cast level 20 Flamefront on Kill",
+        "+(64 to 80)% Enhanced Damage",
+        "Adds (33 to 50)-(71 to 80) fire damage",
+        "-(11 to 13)% to Enemy Fire Resistance",
+        "+40 to Strength",
+        "+40 to Vitality",
+        "Fire Absorb 3%",
+        "Socketed (4)"
+      ]
+    },
+    {
+      "tier": "Tier 3",
+      "damage": [
+        "Two-Hand Damage: (120 - 130) to (172 - 186)"
+      ],
+      "requirement": [
+        "Required Level: 48",
+        "Required Strength: 290",
+        "Item Level: 53",
+        "Strength Damage Bonus: (0.18 per Strength)%"
+      ],
+      "attribute": [
+        "18% Chance to cast level 32 Flamefront on Kill",
+        "+(98 to 114)% Enhanced Damage",
+        "Adds (101 to 140)-(211 to 250) fire damage",
+        "-(16 to 18)% to Enemy Fire Resistance",
+        "+60 to Strength",
+        "+60 to Vitality",
+        "Fire Absorb 4%",
+        "Socketed (5)"
+      ]
+    },
+    {
+      "tier": "Tier 4",
+      "damage": [
+        "Two-Hand Damage: (159 - 171) to (219 - 236)"
+      ],
+      "requirement": [
+        "Required Level: 57",
+        "Required Strength: 570",
+        "Item Level: 90",
+        "Strength Damage Bonus: (0.18 per Strength)%"
+      ],
+      "attribute": [
+        "20% Chance to cast level 42 Flamefront on Kill",
+        "+(115 to 132)% Enhanced Damage",
+        "Adds (301 to 400)-(651 to 750) fire damage",
+        "-(21 to 25)% to Enemy Fire Resistance",
+        "+80 to Strength",
+        "+80 to Vitality",
+        "Fire Absorb 5%",
+        "Socketed (6)"
+      ]
+    }
+  ]
+}
