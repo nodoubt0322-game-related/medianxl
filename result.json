@@ -6,14 +6,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: (4 - 5) to 7"
-        ],
-        "requirement": [
-          "Required Level: 12",
-          "Item Level: 1",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (4 - 5) to 7"],
+        "requirement": ["Required Level: 12", "Item Level: 1", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "+(18 to 29)% Enhanced Damage",
           "(3 to 5)% Life stolen per Hit",
@@ -26,15 +20,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: (12 - 13) to (12 - 13)"
-        ],
-        "requirement": [
-          "Required Level: 19",
-          "Required Strength: 18",
-          "Item Level: 21",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (12 - 13) to (12 - 13)"],
+        "requirement": ["Required Level: 19", "Required Strength: 18", "Item Level: 21", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "+(41 to 52)% Enhanced Damage",
           "(9 to 11)% Life stolen per Hit",
@@ -47,15 +34,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: (22 - 24) to (24 - 26)"
-        ],
-        "requirement": [
-          "Required Level: 37",
-          "Required Strength: 49",
-          "Item Level: 41",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (22 - 24) to (24 - 26)"],
+        "requirement": ["Required Level: 37", "Required Strength: 49", "Item Level: 41", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "+(64 to 75)% Enhanced Damage",
           "(15 to 17)% Life stolen per Hit",
@@ -68,15 +48,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: (29 - 31) to (33 - 35)"
-        ],
-        "requirement": [
-          "Required Level: 46",
-          "Required Strength: 104",
-          "Item Level: 73",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (29 - 31) to (33 - 35)"],
+        "requirement": ["Required Level: 46", "Required Strength: 104", "Item Level: 73", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "+(75 to 86)% Enhanced Damage",
           "(18 to 20)% Life stolen per Hit",
@@ -96,15 +69,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: (6 - 7) to (18 - 29)"
-        ],
-        "requirement": [
-          "Required Level: 2",
-          "Required Strength: 25",
-          "Item Level: 4",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (6 - 7) to (18 - 29)"],
+        "requirement": ["Required Level: 2", "Required Strength: 25", "Item Level: 4", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "15% Attack Speed",
           "+(31 to 50)% Enhanced Damage",
@@ -118,15 +84,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: (17 - 19) to (40 - 51)"
-        ],
-        "requirement": [
-          "Required Level: 20",
-          "Required Strength: 48",
-          "Item Level: 22",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (17 - 19) to (40 - 51)"],
+        "requirement": ["Required Level: 20", "Required Strength: 48", "Item Level: 22", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "25% Attack Speed",
           "+(61 to 80)% Enhanced Damage",
@@ -140,15 +99,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: (32 - 35) to (67 - 79)"
-        ],
-        "requirement": [
-          "Required Level: 39",
-          "Required Strength: 104",
-          "Item Level: 43",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (32 - 35) to (67 - 79)"],
+        "requirement": ["Required Level: 39", "Required Strength: 104", "Item Level: 43", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "35% Attack Speed",
           "+(91 to 110)% Enhanced Damage",
@@ -162,15 +114,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: (44 - 48) to (91 - 105)"
-        ],
-        "requirement": [
-          "Required Level: 48",
-          "Required Strength: 212",
-          "Item Level: 76",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (44 - 48) to (91 - 105)"],
+        "requirement": ["Required Level: 48", "Required Strength: 212", "Item Level: 76", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "50% Attack Speed",
           "+(121 to 140)% Enhanced Damage",
@@ -191,15 +136,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: 6 to 8"
-        ],
-        "requirement": [
-          "Required Level: 4",
-          "Required Strength: 37",
-          "Item Level: 6",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 6 to 8"],
+        "requirement": ["Required Level: 4", "Required Strength: 37", "Item Level: 6", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "(31 to 35)% Attack Speed",
           "(4 to 6)% Chance of Crushing Blow",
@@ -212,15 +150,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: 13 to 14"
-        ],
-        "requirement": [
-          "Required Level: 22",
-          "Required Strength: 64",
-          "Item Level: 25",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 13 to 14"],
+        "requirement": ["Required Level: 22", "Required Strength: 64", "Item Level: 25", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "30% Attack Speed",
           "(8 to 10)% Chance of Crushing Blow",
@@ -233,15 +164,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: 20 to 23"
-        ],
-        "requirement": [
-          "Required Level: 41",
-          "Required Strength: 132",
-          "Item Level: 45",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 20 to 23"],
+        "requirement": ["Required Level: 41", "Required Strength: 132", "Item Level: 45", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "45% Attack Speed",
           "(11 to 13)% Chance of Crushing Blow",
@@ -254,15 +178,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: 23 to 27"
-        ],
-        "requirement": [
-          "Required Level: 50",
-          "Required Strength: 265",
-          "Item Level: 79",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 23 to 27"],
+        "requirement": ["Required Level: 50", "Required Strength: 265", "Item Level: 79", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "60% Attack Speed",
           "(14 to 16)% Chance of Crushing Blow",
@@ -282,14 +199,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: (9 - 11) to (11 - 12)"
-        ],
-        "requirement": [
-          "Required Strength: 49",
-          "Item Level: 8",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (9 - 11) to (11 - 12)"],
+        "requirement": ["Required Strength: 49", "Item Level: 8", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "3% Chance to cast level 2 Shower of Rocks on Melee Attack",
           "+(24 to 40)% Enhanced Damage",
@@ -303,14 +214,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: (22 - 24) to (26 - 29)"
-        ],
-        "requirement": [
-          "Required Strength: 79",
-          "Item Level: 27",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (22 - 24) to (26 - 29)"],
+        "requirement": ["Required Strength: 79", "Item Level: 27", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "7% Chance to cast level 6 Shower of Rocks on Melee Attack",
           "+(58 to 75)% Enhanced Damage",
@@ -324,14 +229,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: (42 - 45) to (49 - 54)"
-        ],
-        "requirement": [
-          "Required Strength: 160",
-          "Item Level: 47",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (42 - 45) to (49 - 54)"],
+        "requirement": ["Required Strength: 160", "Item Level: 47", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "11% Chance to cast level 10 Shower of Rocks on Melee Attack",
           "+(92 to 109)% Enhanced Damage",
@@ -345,14 +244,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: (54 - 58) to (64 - 70)"
-        ],
-        "requirement": [
-          "Required Strength: 319",
-          "Item Level: 82",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (54 - 58) to (64 - 70)"],
+        "requirement": ["Required Strength: 319", "Item Level: 82", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "13% Chance to cast level 12 Shower of Rocks on Melee Attack",
           "+(109 to 126)% Enhanced Damage",
@@ -373,14 +266,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: (12 - 14) to (25 - 27)"
-        ],
-        "requirement": [
-          "Required Strength: 61",
-          "Item Level: 10",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (12 - 14) to (25 - 27)"],
+        "requirement": ["Required Strength: 61", "Item Level: 10", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "20% Attack Speed",
           "+(41 to 60)% Enhanced Damage",
@@ -394,14 +281,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: (27 - 30) to (52 - 56)"
-        ],
-        "requirement": [
-          "Required Strength: 95",
-          "Item Level: 27",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (27 - 30) to (52 - 56)"],
+        "requirement": ["Required Strength: 95", "Item Level: 27", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "30% Attack Speed",
           "+(71 to 90)% Enhanced Damage",
@@ -415,14 +296,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: (50 - 55) to (88 - 93)"
-        ],
-        "requirement": [
-          "Required Strength: 188",
-          "Item Level: 49",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (50 - 55) to (88 - 93)"],
+        "requirement": ["Required Strength: 188", "Item Level: 49", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "40% Attack Speed",
           "+(101 to 120)% Enhanced Damage",
@@ -436,14 +311,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: (66 - 72) to (120 - 127)"
-        ],
-        "requirement": [
-          "Required Strength: 373",
-          "Item Level: 84",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (66 - 72) to (120 - 127)"],
+        "requirement": ["Required Strength: 373", "Item Level: 84", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "50% Attack Speed",
           "+(131 to 150)% Enhanced Damage",
@@ -464,15 +333,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: 10 to 12"
-        ],
-        "requirement": [
-          "Required Level: 8",
-          "Required Strength: 58 to 72",
-          "Item Level: 12",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 10 to 12"],
+        "requirement": ["Required Level: 8", "Required Strength: 58 to 72", "Item Level: 12", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "+1 to All Skills",
           "+(6 to 10)% to Physical/Magic Spell Damage",
@@ -486,15 +348,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: 18 to 21"
-        ],
-        "requirement": [
-          "Required Level: 26",
-          "Required Strength: 77 to 97",
-          "Item Level: 29",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 18 to 21"],
+        "requirement": ["Required Level: 26", "Required Strength: 77 to 97", "Item Level: 29", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "+(1 to 2) to All Skills",
           "+(16 to 20)% to Physical/Magic Spell Damage",
@@ -508,15 +363,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: 28 to 33"
-        ],
-        "requirement": [
-          "Required Level: 45",
-          "Required Strength: 140 to 181",
-          "Item Level: 50",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 28 to 33"],
+        "requirement": ["Required Level: 45", "Required Strength: 140 to 181", "Item Level: 50", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "+2 to All Skills",
           "+(21 to 25)% to Physical/Magic Spell Damage",
@@ -530,15 +378,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: 33 to 39"
-        ],
-        "requirement": [
-          "Required Level: 54",
-          "Required Strength: 256 to 337",
-          "Item Level: 85",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 33 to 39"],
+        "requirement": ["Required Level: 54", "Required Strength: 256 to 337", "Item Level: 85", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "+3 to All Skills",
           "+(31 to 35)% to Physical/Magic Spell Damage",
@@ -559,14 +400,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: (17 - 19) to (20 - 23)"
-        ],
-        "requirement": [
-          "Required Strength: 85",
-          "Item Level: 18",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (17 - 19) to (20 - 23)"],
+        "requirement": ["Required Strength: 85", "Item Level: 18", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "4% Chance to cast level 3 Spike Nova on Melee Attack",
           "+1 to Paladin Skill Levels",
@@ -582,14 +417,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: (38 - 41) to (46 - 50)"
-        ],
-        "requirement": [
-          "Required Strength: 125",
-          "Item Level: 34",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (38 - 41) to (46 - 50)"],
+        "requirement": ["Required Strength: 125", "Item Level: 34", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "5% Chance to cast level 11 Spike Nova on Melee Attack",
           "+(1 to 2) to Paladin Skill Levels",
@@ -605,14 +434,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: (72 - 78) to (84 - 91)"
-        ],
-        "requirement": [
-          "Required Strength: 244",
-          "Item Level: 54",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (72 - 78) to (84 - 91)"],
+        "requirement": ["Required Strength: 244", "Item Level: 54", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "6% Chance to cast level 19 Spike Nova on Melee Attack",
           "+(2 to 3) to Paladin Skill Levels",
@@ -628,14 +451,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: (98 - 105) to (118 - 126)"
-        ],
-        "requirement": [
-          "Required Strength: 481",
-          "Item Level: 90",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (98 - 105) to (118 - 126)"],
+        "requirement": ["Required Strength: 481", "Item Level: 90", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "7% Chance to cast level 23 Spike Nova on Melee Attack",
           "+3 to Paladin Skill Levels",
@@ -658,15 +475,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: (8 - 9) to (19 - 23)",
-          "Two-Hand Damage: (8 - 9) to (24 - 29)"
-        ],
-        "requirement": [
-          "Required Strength: 25",
-          "Item Level: 1",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (8 - 9) to (19 - 23)", "Two-Hand Damage: (8 - 9) to (24 - 29)"],
+        "requirement": ["Required Strength: 25", "Item Level: 1", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "+2 to Amazon Skill Levels",
           "+(61 to 90)% Enhanced Damage",
@@ -680,15 +490,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: (17 - 18) to (35 - 41)",
-          "Two-Hand Damage: (24 - 27) to (40 - 47)"
-        ],
-        "requirement": [
-          "Required Strength: 48",
-          "Item Level: 20",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (17 - 18) to (35 - 41)", "Two-Hand Damage: (24 - 27) to (40 - 47)"],
+        "requirement": ["Required Strength: 48", "Item Level: 20", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "+3 to Amazon Skill Levels",
           "+(91 to 110)% Enhanced Damage",
@@ -702,15 +505,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: (29 - 32) to (59 - 66)",
-          "Two-Hand Damage: (44 - 48) to (72 - 80)"
-        ],
-        "requirement": [
-          "Required Strength: 104",
-          "Item Level: 41",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (29 - 32) to (59 - 66)", "Two-Hand Damage: (44 - 48) to (72 - 80)"],
+        "requirement": ["Required Strength: 104", "Item Level: 41", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "+5 to Amazon Skill Levels",
           "+(111 to 130)% Enhanced Damage",
@@ -724,15 +520,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: (39 - 42) to (82 - 90)",
-          "Two-Hand Damage: (57 - 62) to (98 - 107)"
-        ],
-        "requirement": [
-          "Required Strength: 212",
-          "Item Level: 73",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (39 - 42) to (82 - 90)", "Two-Hand Damage: (57 - 62) to (98 - 107)"],
+        "requirement": ["Required Strength: 212", "Item Level: 73", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "+7 to Amazon Skill Levels",
           "+(131 to 150)% Enhanced Damage",
@@ -753,15 +542,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: (8 - 9) to (13 - 17)",
-          "Two-Hand Damage: (12 - 14) to (18 - 22)"
-        ],
-        "requirement": [
-          "Required Strength: 41",
-          "Item Level: 4",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (8 - 9) to (13 - 17)", "Two-Hand Damage: (12 - 14) to (18 - 22)"],
+        "requirement": ["Required Strength: 41", "Item Level: 4", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "5% Chance to cast level 4 Spike Nova on Melee Attack",
           "+(41 to 60)% Enhanced Damage",
@@ -773,15 +555,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: (20 - 22) to (30 - 36)",
-          "Two-Hand Damage: (30 - 34) to (40 - 48)"
-        ],
-        "requirement": [
-          "Required Strength: 69",
-          "Item Level: 23",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (20 - 22) to (30 - 36)", "Two-Hand Damage: (30 - 34) to (40 - 48)"],
+        "requirement": ["Required Strength: 69", "Item Level: 23", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "10% Chance to cast level 8 Spike Nova on Melee Attack",
           "+(71 to 90)% Enhanced Damage",
@@ -793,15 +568,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: (36 - 39) to (58 - 70)",
-          "Two-Hand Damage: (58 - 63) to (80 - 94)"
-        ],
-        "requirement": [
-          "Required Strength: 142",
-          "Item Level: 43",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (36 - 39) to (58 - 70)", "Two-Hand Damage: (58 - 63) to (80 - 94)"],
+        "requirement": ["Required Strength: 142", "Item Level: 43", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "15% Chance to cast level 12 Spike Nova on Melee Attack",
           "+(101 to 120)% Enhanced Damage",
@@ -813,15 +581,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: (48 - 52) to (89 - 110)",
-          "Two-Hand Damage: (83 - 90) to (117 - 140)"
-        ],
-        "requirement": [
-          "Required Strength: 283",
-          "Item Level: 78",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (48 - 52) to (89 - 110)", "Two-Hand Damage: (83 - 90) to (117 - 140)"],
+        "requirement": ["Required Strength: 283", "Item Level: 78", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "20% Chance to cast level 14 Spike Nova on Melee Attack",
           "+(131 to 150)% Enhanced Damage",
@@ -840,15 +601,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: (12 - 14) to (14 - 16)",
-          "Two-Hand Damage: (20 - 23) to (20 - 23)"
-        ],
-        "requirement": [
-          "Required Strength: 57",
-          "Item Level: 7",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (12 - 14) to (14 - 16)", "Two-Hand Damage: (20 - 23) to (20 - 23)"],
+        "requirement": ["Required Strength: 57", "Item Level: 7", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "5% Attack Speed",
           "+(61 to 80)% Enhanced Damage",
@@ -862,15 +616,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: (26 - 29) to (32 - 35)",
-          "Two-Hand Damage: (45 - 50) to (49 - 54)"
-        ],
-        "requirement": [
-          "Required Strength: 89",
-          "Item Level: 25",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (26 - 29) to (32 - 35)", "Two-Hand Damage: (45 - 50) to (49 - 54)"],
+        "requirement": ["Required Strength: 89", "Item Level: 25", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "15% Attack Speed",
           "+(91 to 110)% Enhanced Damage",
@@ -884,15 +631,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: (48 - 55) to (57 - 65)",
-          "Two-Hand Damage: (83 - 95) to (88 - 100)"
-        ],
-        "requirement": [
-          "Required Strength: 179",
-          "Item Level: 46",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (48 - 55) to (57 - 65)", "Two-Hand Damage: (83 - 95) to (88 - 100)"],
+        "requirement": ["Required Strength: 179", "Item Level: 46", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "25% Attack Speed",
           "+(121 to 150)% Enhanced Damage",
@@ -906,15 +646,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: (67 - 78) to (80 - 93)",
-          "Two-Hand Damage: (117 - 135) to (125 - 144)"
-        ],
-        "requirement": [
-          "Required Strength: 355",
-          "Item Level: 81",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (67 - 78) to (80 - 93)", "Two-Hand Damage: (117 - 135) to (125 - 144)"],
+        "requirement": ["Required Strength: 355", "Item Level: 81", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "30% Attack Speed",
           "+(161 to 200)% Enhanced Damage",
@@ -935,16 +668,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: 9 to 11",
-          "Two-Hand Damage: 16 to 17"
-        ],
-        "requirement": [
-          "Required Level: 6",
-          "Required Strength: 73",
-          "Item Level: 9",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 9 to 11", "Two-Hand Damage: 16 to 17"],
+        "requirement": ["Required Level: 6", "Required Strength: 73", "Item Level: 9", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "+1 to Paladin Skill Levels",
           "+(11 to 15)% to Cold Spell Damage",
@@ -958,16 +683,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: 17 to 20",
-          "Two-Hand Damage: 30 to 32"
-        ],
-        "requirement": [
-          "Required Level: 24",
-          "Required Strength: 110",
-          "Item Level: 27",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 17 to 20", "Two-Hand Damage: 30 to 32"],
+        "requirement": ["Required Level: 24", "Required Strength: 110", "Item Level: 27", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "+2 to Paladin Skill Levels",
           "+(16 to 20)% to Cold Spell Damage",
@@ -981,16 +698,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: 26 to 31",
-          "Two-Hand Damage: 46 to 49"
-        ],
-        "requirement": [
-          "Required Level: 43",
-          "Required Strength: 216",
-          "Item Level: 48",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 26 to 31", "Two-Hand Damage: 46 to 49"],
+        "requirement": ["Required Level: 43", "Required Strength: 216", "Item Level: 48", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "+3 to Paladin Skill Levels",
           "+(21 to 25)% to Cold Spell Damage",
@@ -1004,16 +713,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: 31 to 37",
-          "Two-Hand Damage: 56 to 59"
-        ],
-        "requirement": [
-          "Required Level: 52",
-          "Required Strength: 427",
-          "Item Level: 82",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 31 to 37", "Two-Hand Damage: 56 to 59"],
+        "requirement": ["Required Level: 52", "Required Strength: 427", "Item Level: 82", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "+4 to Paladin Skill Levels",
           "+(26 to 30)% to Cold Spell Damage",
@@ -1034,15 +735,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: (12 - 14) to (23 - 30)",
-          "Two-Hand Damage: (22 - 25) to (32 - 41)"
-        ],
-        "requirement": [
-          "Required Strength: 89",
-          "Item Level: 11",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (12 - 14) to (23 - 30)", "Two-Hand Damage: (22 - 25) to (32 - 41)"],
+        "requirement": ["Required Strength: 89", "Item Level: 11", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "25% Chance to cast level 5 Ice Lance on Melee Attack",
           "+1 to All Skills",
@@ -1056,15 +750,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: (28 - 32) to (52 - 61)",
-          "Two-Hand Damage: (54 - 60) to (75 - 87)"
-        ],
-        "requirement": [
-          "Required Strength: 130",
-          "Item Level: 29",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (28 - 32) to (52 - 61)", "Two-Hand Damage: (54 - 60) to (75 - 87)"],
+        "requirement": ["Required Strength: 130", "Item Level: 29", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "35% Chance to cast level 15 Ice Lance on Melee Attack",
           "+2 to All Skills",
@@ -1078,15 +765,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: (56 - 60) to (95 - 106)",
-          "Two-Hand Damage: (102 - 111) to (136 - 150)"
-        ],
-        "requirement": [
-          "Required Strength: 253",
-          "Item Level: 49",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (56 - 60) to (95 - 106)", "Two-Hand Damage: (102 - 111) to (136 - 150)"],
+        "requirement": ["Required Strength: 253", "Item Level: 49", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "45% Chance to cast level 25 Ice Lance on Melee Attack",
           "+(2 to 3) to All Skills",
@@ -1100,15 +780,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: (71 - 77) to (118 - 130)",
-          "Two-Hand Damage: (132 - 143) to (173 - 189)"
-        ],
-        "requirement": [
-          "Required Strength: 499",
-          "Item Level: 85",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (71 - 77) to (118 - 130)", "Two-Hand Damage: (132 - 143) to (173 - 189)"],
+        "requirement": ["Required Strength: 499", "Item Level: 85", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "50% Chance to cast level 30 Ice Lance on Melee Attack",
           "+3 to All Skills",
@@ -1129,15 +802,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: (14 - 16) to (32 - 45)",
-          "Two-Hand Damage: (25 - 29) to (42 - 56)"
-        ],
-        "requirement": [
-          "Required Strength: 105",
-          "Item Level: 17",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (14 - 16) to (32 - 45)", "Two-Hand Damage: (25 - 29) to (42 - 56)"],
+        "requirement": ["Required Strength: 105", "Item Level: 17", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "+1 to All Skills",
           "15% Attack Speed",
@@ -1152,15 +818,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: (31 - 35) to (70 - 83)",
-          "Two-Hand Damage: (60 - 67) to (96 - 112)"
-        ],
-        "requirement": [
-          "Required Strength: 151",
-          "Item Level: 33",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (31 - 35) to (70 - 83)", "Two-Hand Damage: (60 - 67) to (96 - 112)"],
+        "requirement": ["Required Strength: 151", "Item Level: 33", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "+2 to All Skills",
           "25% Attack Speed",
@@ -1175,15 +834,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: (59 - 64) to (123 - 149)",
-          "Two-Hand Damage: (114 - 123) to (172 - 201)"
-        ],
-        "requirement": [
-          "Required Strength: 291",
-          "Item Level: 54",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (59 - 64) to (123 - 149)", "Two-Hand Damage: (114 - 123) to (172 - 201)"],
+        "requirement": ["Required Strength: 291", "Item Level: 54", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "+3 to All Skills",
           "35% Attack Speed",
@@ -1198,15 +850,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: (77 - 83) to (166 - 193)",
-          "Two-Hand Damage: (148 - 160) to (228 - 259)"
-        ],
-        "requirement": [
-          "Required Strength: 570",
-          "Item Level: 90",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (77 - 83) to (166 - 193)", "Two-Hand Damage: (148 - 160) to (228 - 259)"],
+        "requirement": ["Required Strength: 570", "Item Level: 90", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "+4 to All Skills",
           "40% Attack Speed",
@@ -1228,11 +873,7 @@
     "info": [
       {
         "tier": "Tier 1",
-        "requirement": [
-          "Required Level: 11",
-          "Required Dexterity: 73",
-          "Item Level: 18"
-        ],
+        "requirement": ["Required Level: 11", "Required Dexterity: 73", "Item Level: 18"],
         "attribute": [
           "+1 to Druid Skill Levels",
           "+1 to Paladin Skill Levels",
@@ -1246,11 +887,7 @@
       },
       {
         "tier": "Tier 2",
-        "requirement": [
-          "Required Level: 30",
-          "Required Dexterity: 110",
-          "Item Level: 33"
-        ],
+        "requirement": ["Required Level: 30", "Required Dexterity: 110", "Item Level: 33"],
         "attribute": [
           "+2 to Druid Skill Levels",
           "+2 to Paladin Skill Levels",
@@ -1264,11 +901,7 @@
       },
       {
         "tier": "Tier 3",
-        "requirement": [
-          "Required Level: 48",
-          "Required Dexterity: 216",
-          "Item Level: 53"
-        ],
+        "requirement": ["Required Level: 48", "Required Dexterity: 216", "Item Level: 53"],
         "attribute": [
           "+3 to Druid Skill Levels",
           "+3 to Paladin Skill Levels",
@@ -1282,11 +915,7 @@
       },
       {
         "tier": "Tier 4",
-        "requirement": [
-          "Required Level: 57",
-          "Required Dexterity: 427",
-          "Item Level: 90"
-        ],
+        "requirement": ["Required Level: 57", "Required Dexterity: 427", "Item Level: 90"],
         "attribute": [
           "+4 to Druid Skill Levels",
           "+4 to Paladin Skill Levels",
@@ -1307,13 +936,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: (4 - 5) to (6 - 7)"
-        ],
-        "requirement": [
-          "Item Level: 1",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (4 - 5) to (6 - 7)"],
+        "requirement": ["Item Level: 1", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "3% Chance to cast level 2 Banish on Kill",
           "15% Attack Speed",
@@ -1328,14 +952,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: (12 - 14) to (15 - 18)"
-        ],
-        "requirement": [
-          "Required Strength: 18",
-          "Item Level: 20",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (12 - 14) to (15 - 18)"],
+        "requirement": ["Required Strength: 18", "Item Level: 20", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "5% Chance to cast level 8 Banish on Kill",
           "25% Attack Speed",
@@ -1350,14 +968,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: (24 - 28) to (30 - 35)"
-        ],
-        "requirement": [
-          "Required Strength: 49",
-          "Item Level: 41",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (24 - 28) to (30 - 35)"],
+        "requirement": ["Required Strength: 49", "Item Level: 41", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "7% Chance to cast level 14 Banish on Kill",
           "35% Attack Speed",
@@ -1372,14 +984,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: (36 - 41) to (46 - 52)"
-        ],
-        "requirement": [
-          "Required Strength: 104",
-          "Item Level: 73",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (36 - 41) to (46 - 52)"],
+        "requirement": ["Required Strength: 104", "Item Level: 73", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "8% Chance to cast level 17 Banish on Kill",
           "50% Attack Speed",
@@ -1401,14 +1007,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: 7 to (15 - 23)"
-        ],
-        "requirement": [
-          "Required Strength: 31",
-          "Item Level: 5",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 7 to (15 - 23)"],
+        "requirement": ["Required Strength: 31", "Item Level: 5", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "+1 to Druid Skill Levels",
           "5% Attack Speed",
@@ -1422,14 +1022,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: (15 - 16) to (42 - 50)"
-        ],
-        "requirement": [
-          "Required Strength: 56",
-          "Item Level: 24",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (15 - 16) to (42 - 50)"],
+        "requirement": ["Required Strength: 56", "Item Level: 24", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "+2 to Druid Skill Levels",
           "15% Attack Speed",
@@ -1443,14 +1037,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: (27 - 29) to (75 - 85)"
-        ],
-        "requirement": [
-          "Required Strength: 118",
-          "Item Level: 45",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (27 - 29) to (75 - 85)"],
+        "requirement": ["Required Strength: 118", "Item Level: 45", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "+(2 to 3) to Druid Skill Levels",
           "25% Attack Speed",
@@ -1464,14 +1052,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: (36 - 39) to (92 - 102)"
-        ],
-        "requirement": [
-          "Required Strength: 239",
-          "Item Level: 78",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (36 - 39) to (92 - 102)"],
+        "requirement": ["Required Strength: 239", "Item Level: 78", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "+3 to Druid Skill Levels",
           "30% Attack Speed",
@@ -1492,14 +1074,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: (12 - 16) to (21 - 30)"
-        ],
-        "requirement": [
-          "Required Strength: 49",
-          "Item Level: 8",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (12 - 16) to (21 - 30)"],
+        "requirement": ["Required Strength: 49", "Item Level: 8", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "1% Chance to cast level 5 Glacial Nova on Melee Attack",
           "10% Hit Recovery",
@@ -1512,14 +1088,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: (31 - 36) to (55 - 66)"
-        ],
-        "requirement": [
-          "Required Strength: 79",
-          "Item Level: 26",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (31 - 36) to (55 - 66)"],
+        "requirement": ["Required Strength: 79", "Item Level: 26", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "2% Chance to cast level 13 Glacial Nova on Melee Attack",
           "20% Hit Recovery",
@@ -1532,14 +1102,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: (57 - 63) to (98 - 111)"
-        ],
-        "requirement": [
-          "Required Strength: 160",
-          "Item Level: 47",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (57 - 63) to (98 - 111)"],
+        "requirement": ["Required Strength: 160", "Item Level: 47", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "3% Chance to cast level 21 Glacial Nova on Melee Attack",
           "30% Hit Recovery",
@@ -1552,14 +1116,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: (76 - 83) to (128 - 142)"
-        ],
-        "requirement": [
-          "Required Strength: 319",
-          "Item Level: 81",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (76 - 83) to (128 - 142)"],
+        "requirement": ["Required Strength: 319", "Item Level: 81", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "4% Chance to cast level 25 Glacial Nova on Melee Attack",
           "40% Hit Recovery",
@@ -1579,14 +1137,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: (15 - 16) to (24 - 35)"
-        ],
-        "requirement": [
-          "Required Strength: 67",
-          "Item Level: 11",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (15 - 16) to (24 - 35)"],
+        "requirement": ["Required Strength: 67", "Item Level: 11", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "35% Attack Speed",
           "+(71 to 80)% Enhanced Damage",
@@ -1601,14 +1153,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: (32 - 34) to (58 - 70)"
-        ],
-        "requirement": [
-          "Required Strength: 102",
-          "Item Level: 28",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (32 - 34) to (58 - 70)"],
+        "requirement": ["Required Strength: 102", "Item Level: 28", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "40% Attack Speed",
           "+(91 to 100)% Enhanced Damage",
@@ -1623,14 +1169,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: (54 - 57) to (103 - 115)"
-        ],
-        "requirement": [
-          "Required Strength: 202",
-          "Item Level: 49",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (54 - 57) to (103 - 115)"],
+        "requirement": ["Required Strength: 202", "Item Level: 49", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "45% Attack Speed",
           "+(111 to 120)% Enhanced Damage",
@@ -1645,14 +1185,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: (69 - 72) to (134 - 148)"
-        ],
-        "requirement": [
-          "Required Strength: 400",
-          "Item Level: 84",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (69 - 72) to (134 - 148)"],
+        "requirement": ["Required Strength: 400", "Item Level: 84", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "50% Attack Speed",
           "+(131 to 140)% Enhanced Damage",
@@ -1674,15 +1208,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: 11 to 17"
-        ],
-        "requirement": [
-          "Required Level: 11",
-          "Required Strength: 85",
-          "Item Level: 17",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 11 to 17"],
+        "requirement": ["Required Level: 11", "Required Strength: 85", "Item Level: 17", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "+1 to All Skills",
           "10% Cast Speed",
@@ -1699,15 +1226,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: 19 to 29"
-        ],
-        "requirement": [
-          "Required Level: 29",
-          "Required Strength: 125",
-          "Item Level: 32",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 19 to 29"],
+        "requirement": ["Required Level: 29", "Required Strength: 125", "Item Level: 32", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "+2 to All Skills",
           "20% Cast Speed",
@@ -1724,15 +1244,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: 29 to 45"
-        ],
-        "requirement": [
-          "Required Level: 48",
-          "Required Strength: 244",
-          "Item Level: 53",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 29 to 45"],
+        "requirement": ["Required Level: 48", "Required Strength: 244", "Item Level: 53", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "+2 to All Skills",
           "30% Cast Speed",
@@ -1749,15 +1262,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: 35 to 54"
-        ],
-        "requirement": [
-          "Required Level: 55",
-          "Required Strength: 481",
-          "Item Level: 87",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 35 to 54"],
+        "requirement": ["Required Level: 55", "Required Strength: 481", "Item Level: 87", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "+3 to All Skills",
           "40% Cast Speed",
@@ -1781,14 +1287,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: (8 - 9) to (10 - 11)"
-        ],
-        "requirement": [
-          "Required Strength: 18",
-          "Item Level: 1",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (8 - 9) to (10 - 11)"],
+        "requirement": ["Required Strength: 18", "Item Level: 1", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "1% Chance to cast level 6 Lifeblood on Death Blow",
           "+1 to All Skills",
@@ -1801,14 +1301,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: (19 - 21) to (22 - 24)"
-        ],
-        "requirement": [
-          "Required Strength: 39",
-          "Item Level: 20",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (19 - 21) to (22 - 24)"],
+        "requirement": ["Required Strength: 39", "Item Level: 20", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "2% Chance to cast level 12 Lifeblood on Death Blow",
           "+(1 to 2) to All Skills",
@@ -1821,14 +1315,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: (39 - 42) to (45 - 49)"
-        ],
-        "requirement": [
-          "Required Strength: 88",
-          "Item Level: 41",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (39 - 42) to (45 - 49)"],
+        "requirement": ["Required Strength: 88", "Item Level: 41", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "3% Chance to cast level 18 Lifeblood on Death Blow",
           "+2 to All Skills",
@@ -1841,14 +1329,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: (50 - 53) to (57 - 61)"
-        ],
-        "requirement": [
-          "Required Strength: 180",
-          "Item Level: 73",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (50 - 53) to (57 - 61)"],
+        "requirement": ["Required Strength: 180", "Item Level: 73", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "4% Chance to cast level 21 Lifeblood on Death Blow",
           "+3 to All Skills",
@@ -1868,14 +1350,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: (11 - 13) to (26 - 32)"
-        ],
-        "requirement": [
-          "Required Strength: 39",
-          "Item Level: 5",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (11 - 13) to (26 - 32)"],
+        "requirement": ["Required Strength: 39", "Item Level: 5", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "5% Chance to cast level 2 Lifeblood on Kill",
           "+1 to All Skills",
@@ -1890,14 +1366,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: (30 - 33) to (59 - 72)"
-        ],
-        "requirement": [
-          "Required Strength: 67",
-          "Item Level: 24",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (30 - 33) to (59 - 72)"],
+        "requirement": ["Required Strength: 67", "Item Level: 24", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "7% Chance to cast level 6 Lifeblood on Kill",
           "+2 to All Skills",
@@ -1912,14 +1382,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: (63 - 69) to (117 - 133)"
-        ],
-        "requirement": [
-          "Required Strength: 137",
-          "Item Level: 44",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (63 - 69) to (117 - 133)"],
+        "requirement": ["Required Strength: 137", "Item Level: 44", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "9% Chance to cast level 10 Lifeblood on Kill",
           "+3 to All Skills",
@@ -1934,14 +1398,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: (81 - 88) to (150 - 177)"
-        ],
-        "requirement": [
-          "Required Strength: 274",
-          "Item Level: 78",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (81 - 88) to (150 - 177)"],
+        "requirement": ["Required Strength: 274", "Item Level: 78", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "11% Chance to cast level 12 Lifeblood on Kill",
           "+4 to All Skills",
@@ -1963,11 +1421,7 @@
     "info": [
       {
         "tier": "Tier 1",
-        "requirement": [
-          "Required Level: 5",
-          "Required Strength: 60",
-          "Item Level: 8"
-        ],
+        "requirement": ["Required Level: 5", "Required Strength: 60", "Item Level: 8"],
         "attribute": [
           "10% Chance to cast level 10 Lava Pit on Melee Attack",
           "15% Attack Speed",
@@ -1981,11 +1435,7 @@
       },
       {
         "tier": "Tier 2",
-        "requirement": [
-          "Required Level: 24",
-          "Required Strength: 93",
-          "Item Level: 26"
-        ],
+        "requirement": ["Required Level: 24", "Required Strength: 93", "Item Level: 26"],
         "attribute": [
           "12% Chance to cast level 20 Lava Pit on Melee Attack",
           "25% Attack Speed",
@@ -1999,11 +1449,7 @@
       },
       {
         "tier": "Tier 3",
-        "requirement": [
-          "Required Level: 42",
-          "Required Strength: 186",
-          "Item Level: 47"
-        ],
+        "requirement": ["Required Level: 42", "Required Strength: 186", "Item Level: 47"],
         "attribute": [
           "14% Chance to cast level 30 Lava Pit on Melee Attack",
           "35% Attack Speed",
@@ -2017,11 +1463,7 @@
       },
       {
         "tier": "Tier 4",
-        "requirement": [
-          "Required Level: 51",
-          "Required Strength: 369",
-          "Item Level: 81"
-        ],
+        "requirement": ["Required Level: 51", "Required Strength: 369", "Item Level: 81"],
         "attribute": [
           "16% Chance to cast level 40 Lava Pit on Melee Attack",
           "40% Attack Speed",
@@ -2042,15 +1484,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: (21 - 24) to (41 - 53)"
-        ],
-        "requirement": [
-          "Required Level: 7",
-          "Required Strength: 81",
-          "Item Level: 11",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (21 - 24) to (41 - 53)"],
+        "requirement": ["Required Level: 7", "Required Strength: 81", "Item Level: 11", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "10% Attack Speed",
           "+(24 to 46)% Enhanced Damage",
@@ -2066,15 +1501,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: (57 - 65) to (102 - 119)"
-        ],
-        "requirement": [
-          "Required Level: 25",
-          "Required Strength: 120",
-          "Item Level: 28",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (57 - 65) to (102 - 119)"],
+        "requirement": ["Required Level: 25", "Required Strength: 120", "Item Level: 28", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "15% Attack Speed",
           "+(69 to 92)% Enhanced Damage",
@@ -2090,15 +1518,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: (113 - 125) to (189 - 211)"
-        ],
-        "requirement": [
-          "Required Level: 44",
-          "Required Strength: 235",
-          "Item Level: 48",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (113 - 125) to (189 - 211)"],
+        "requirement": ["Required Level: 44", "Required Strength: 235", "Item Level: 48", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "20% Attack Speed",
           "+(115 to 137)% Enhanced Damage",
@@ -2114,15 +1535,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: (147 - 161) to (241 - 266)"
-        ],
-        "requirement": [
-          "Required Level: 53",
-          "Required Strength: 463",
-          "Item Level: 84",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (147 - 161) to (241 - 266)"],
+        "requirement": ["Required Level: 53", "Required Strength: 463", "Item Level: 84", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "25% Attack Speed",
           "+(138 to 160)% Enhanced Damage",
@@ -2145,15 +1559,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: (24 - 29) to (34 - 40)"
-        ],
-        "requirement": [
-          "Required Level: 11",
-          "Required Strength: 102",
-          "Item Level: 17",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (24 - 29) to (34 - 40)"],
+        "requirement": ["Required Level: 11", "Required Strength: 102", "Item Level: 17", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "19% Chance to cast level 6 Gamma Field on Kill",
           "+(1 to 2) to Druid Skill Levels",
@@ -2169,15 +1576,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: (65 - 74) to (86 - 97)"
-        ],
-        "requirement": [
-          "Required Level: 29",
-          "Required Strength: 146",
-          "Item Level: 32",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (65 - 74) to (86 - 97)"],
+        "requirement": ["Required Level: 29", "Required Strength: 146", "Item Level: 32", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "21% Chance to cast level 18 Gamma Field on Kill",
           "+3 to Druid Skill Levels",
@@ -2193,15 +1593,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: (129 - 142) to (169 - 187)"
-        ],
-        "requirement": [
-          "Required Level: 48",
-          "Required Strength: 284",
-          "Item Level: 53",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (129 - 142) to (169 - 187)"],
+        "requirement": ["Required Level: 48", "Required Strength: 284", "Item Level: 53", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "23% Chance to cast level 30 Gamma Field on Kill",
           "+4 to Druid Skill Levels",
@@ -2217,15 +1610,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: (154 - 169) to (235 - 257)"
-        ],
-        "requirement": [
-          "Required Level: 55",
-          "Required Strength: 557",
-          "Item Level: 87",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (154 - 169) to (235 - 257)"],
+        "requirement": ["Required Level: 55", "Required Strength: 557", "Item Level: 87", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "25% Chance to cast level 36 Gamma Field on Kill",
           "+5 to Druid Skill Levels",
@@ -2248,82 +1634,27 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: 4 to 6"
-        ],
-        "requirement": [
-          "Required Level: 1",
-          "Item Level: 1",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
-        "attribute": [
-          "25% Attack Speed",
-          "+50% Damage to Undead",
-          "10% to All Attributes",
-          "+10 Life Regenerated per Second",
-          "Physical Resist 2%",
-          "Socketed (1)"
-        ]
+        "damage": ["One-Hand Damage: 4 to 6"],
+        "requirement": ["Required Level: 1", "Item Level: 1", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": ["25% Attack Speed", "+50% Damage to Undead", "10% to All Attributes", "+10 Life Regenerated per Second", "Physical Resist 2%", "Socketed (1)"]
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: 9 to 11"
-        ],
-        "requirement": [
-          "Required Level: 18",
-          "Required Strength: 18",
-          "Item Level: 20",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
-        "attribute": [
-          "45% Attack Speed",
-          "+50% Damage to Undead",
-          "16% to All Attributes",
-          "+20 Life Regenerated per Second",
-          "Physical Resist 4%",
-          "Socketed (2)"
-        ]
+        "damage": ["One-Hand Damage: 9 to 11"],
+        "requirement": ["Required Level: 18", "Required Strength: 18", "Item Level: 20", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": ["45% Attack Speed", "+50% Damage to Undead", "16% to All Attributes", "+20 Life Regenerated per Second", "Physical Resist 4%", "Socketed (2)"]
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: 14 to 17"
-        ],
-        "requirement": [
-          "Required Level: 37",
-          "Required Strength: 49",
-          "Item Level: 41",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
-        "attribute": [
-          "65% Attack Speed",
-          "+50% Damage to Undead",
-          "23% to All Attributes",
-          "+30 Life Regenerated per Second",
-          "Physical Resist 6%",
-          "Socketed (3)"
-        ]
+        "damage": ["One-Hand Damage: 14 to 17"],
+        "requirement": ["Required Level: 37", "Required Strength: 49", "Item Level: 41", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": ["65% Attack Speed", "+50% Damage to Undead", "23% to All Attributes", "+30 Life Regenerated per Second", "Physical Resist 6%", "Socketed (3)"]
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: 17 to 21"
-        ],
-        "requirement": [
-          "Required Level: 46",
-          "Required Strength: 104",
-          "Item Level: 73",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
-        "attribute": [
-          "75% Attack Speed",
-          "+50% Damage to Undead",
-          "30% to All Attributes",
-          "+40 Life Regenerated per Second",
-          "Physical Resist 8%",
-          "Socketed (3)"
-        ]
+        "damage": ["One-Hand Damage: 17 to 21"],
+        "requirement": ["Required Level: 46", "Required Strength: 104", "Item Level: 73", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": ["75% Attack Speed", "+50% Damage to Undead", "30% to All Attributes", "+40 Life Regenerated per Second", "Physical Resist 8%", "Socketed (3)"]
       }
     ]
   },
@@ -2334,15 +1665,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: (7 - 9) to (20 - 22)"
-        ],
-        "requirement": [
-          "Required Level: 3",
-          "Required Strength: 24",
-          "Item Level: 5",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (7 - 9) to (20 - 22)"],
+        "requirement": ["Required Level: 3", "Required Strength: 24", "Item Level: 5", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "5% Attack Speed",
           "+(31 to 50)% Enhanced Damage",
@@ -2357,15 +1681,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: (16 - 18) to (37 - 40)"
-        ],
-        "requirement": [
-          "Required Level: 21",
-          "Required Strength: 47",
-          "Item Level: 24",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (16 - 18) to (37 - 40)"],
+        "requirement": ["Required Level: 21", "Required Strength: 47", "Item Level: 24", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "15% Attack Speed",
           "+(51 to 70)% Enhanced Damage",
@@ -2380,15 +1697,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: (30 - 36) to (60 - 67)"
-        ],
-        "requirement": [
-          "Required Level: 40",
-          "Required Strength: 102",
-          "Item Level: 44",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (30 - 36) to (60 - 67)"],
+        "requirement": ["Required Level: 40", "Required Strength: 102", "Item Level: 44", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "30% Attack Speed",
           "+(71 to 100)% Enhanced Damage",
@@ -2403,15 +1713,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: (42 - 48) to (86 - 94)"
-        ],
-        "requirement": [
-          "Required Level: 49",
-          "Required Strength: 207",
-          "Item Level: 78",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (42 - 48) to (86 - 94)"],
+        "requirement": ["Required Level: 49", "Required Strength: 207", "Item Level: 78", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "45% Attack Speed",
           "+(101 to 130)% Enhanced Damage",
@@ -2433,15 +1736,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: (9 - 10) to (13 - 15)"
-        ],
-        "requirement": [
-          "Required Level: 5",
-          "Required Strength: 36",
-          "Item Level: 8",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (9 - 10) to (13 - 15)"],
+        "requirement": ["Required Level: 5", "Required Strength: 36", "Item Level: 8", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "15% Chance to cast level 4 Bloodlust on Kill",
           "+1 to All Skills",
@@ -2456,15 +1752,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: (22 - 24) to (32 - 36)"
-        ],
-        "requirement": [
-          "Required Level: 23",
-          "Required Strength: 62",
-          "Item Level: 26",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (22 - 24) to (32 - 36)"],
+        "requirement": ["Required Level: 23", "Required Strength: 62", "Item Level: 26", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "21% Chance to cast level 12 Bloodlust on Kill",
           "+(1 to 2) to All Skills",
@@ -2479,15 +1768,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: (40 - 44) to (60 - 66)"
-        ],
-        "requirement": [
-          "Required Level: 42",
-          "Required Strength: 130",
-          "Item Level: 46",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (40 - 44) to (60 - 66)"],
+        "requirement": ["Required Level: 42", "Required Strength: 130", "Item Level: 46", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "27% Chance to cast level 20 Bloodlust on Kill",
           "+2 to All Skills",
@@ -2502,15 +1784,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: (55 - 60) to (80 - 87)"
-        ],
-        "requirement": [
-          "Required Level: 51",
-          "Required Strength: 261",
-          "Item Level: 81",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: (55 - 60) to (80 - 87)"],
+        "requirement": ["Required Level: 51", "Required Strength: 261", "Item Level: 81", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "30% Chance to cast level 24 Bloodlust on Kill",
           "+(2 to 3) to All Skills",
@@ -2532,15 +1807,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: 8 to 13"
-        ],
-        "requirement": [
-          "Required Level: 24",
-          "Required Strength: 48",
-          "Item Level: 11",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 8 to 13"],
+        "requirement": ["Required Level: 24", "Required Strength: 48", "Item Level: 11", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "+50% Damage to Undead",
           "-3% to Enemy Fire Resistance",
@@ -2553,15 +1821,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: 14 to 23"
-        ],
-        "requirement": [
-          "Required Level: 25",
-          "Required Strength: 78",
-          "Item Level: 28",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 14 to 23"],
+        "requirement": ["Required Level: 25", "Required Strength: 78", "Item Level: 28", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "+50% Damage to Undead",
           "-6% to Enemy Fire Resistance",
@@ -2574,15 +1835,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: 23 to 36"
-        ],
-        "requirement": [
-          "Required Level: 44",
-          "Required Strength: 158",
-          "Item Level: 48",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 23 to 36"],
+        "requirement": ["Required Level: 44", "Required Strength: 158", "Item Level: 48", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "+50% Damage to Undead",
           "-9% to Enemy Fire Resistance",
@@ -2595,15 +1849,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: 28 to 42"
-        ],
-        "requirement": [
-          "Required Level: 53",
-          "Required Strength: 315",
-          "Item Level: 84",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 28 to 42"],
+        "requirement": ["Required Level: 53", "Required Strength: 315", "Item Level: 84", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "+50% Damage to Undead",
           "-12% to Enemy Fire Resistance",
@@ -2623,87 +1870,27 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: 13 to 22"
-        ],
-        "requirement": [
-          "Required Level: 24",
-          "Required Strength: 60",
-          "Item Level: 17",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
-        "attribute": [
-          "15% Attack Speed",
-          "+50% Enhanced Damage",
-          "+50% Damage to Undead",
-          "2% Deadly Strike",
-          "+(1 to 4) to Noctule",
-          "+(11 to 15) to all Attributes",
-          "Socketed (2)"
-        ]
+        "damage": ["One-Hand Damage: 13 to 22"],
+        "requirement": ["Required Level: 24", "Required Strength: 60", "Item Level: 17", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": ["15% Attack Speed", "+50% Enhanced Damage", "+50% Damage to Undead", "2% Deadly Strike", "+(1 to 4) to Noctule", "+(11 to 15) to all Attributes", "Socketed (2)"]
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: 34 to 54"
-        ],
-        "requirement": [
-          "Required Level: 45",
-          "Required Strength: 93",
-          "Item Level: 32",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
-        "attribute": [
-          "25% Attack Speed",
-          "+100% Enhanced Damage",
-          "+50% Damage to Undead",
-          "4% Deadly Strike",
-          "+(5 to 7) to Noctule",
-          "+(21 to 25) to all Attributes",
-          "Socketed (4)"
-        ]
+        "damage": ["One-Hand Damage: 34 to 54"],
+        "requirement": ["Required Level: 45", "Required Strength: 93", "Item Level: 32", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": ["25% Attack Speed", "+100% Enhanced Damage", "+50% Damage to Undead", "4% Deadly Strike", "+(5 to 7) to Noctule", "+(21 to 25) to all Attributes", "Socketed (4)"]
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: 62 to 102"
-        ],
-        "requirement": [
-          "Required Level: 70",
-          "Required Strength: 186",
-          "Item Level: 53",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
-        "attribute": [
-          "35% Attack Speed",
-          "+150% Enhanced Damage",
-          "+50% Damage to Undead",
-          "6% Deadly Strike",
-          "+(8 to 11) to Noctule",
-          "+(31 to 35) to all Attributes",
-          "Socketed (5)"
-        ]
+        "damage": ["One-Hand Damage: 62 to 102"],
+        "requirement": ["Required Level: 70", "Required Strength: 186", "Item Level: 53", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": ["35% Attack Speed", "+150% Enhanced Damage", "+50% Damage to Undead", "6% Deadly Strike", "+(8 to 11) to Noctule", "+(31 to 35) to all Attributes", "Socketed (5)"]
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: 93 to 147"
-        ],
-        "requirement": [
-          "Required Level: 84",
-          "Required Strength: 369",
-          "Item Level: 87",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
-        "attribute": [
-          "40% Attack Speed",
-          "+200% Enhanced Damage",
-          "+50% Damage to Undead",
-          "8% Deadly Strike",
-          "+(12 to 14) to Noctule",
-          "+(36 to 40) to all Attributes",
-          "Socketed (6)"
-        ]
+        "damage": ["One-Hand Damage: 93 to 147"],
+        "requirement": ["Required Level: 84", "Required Strength: 369", "Item Level: 87", "Strength Damage Bonus: (0.18 per Strength)%"],
+        "attribute": ["40% Attack Speed", "+200% Enhanced Damage", "+50% Damage to Undead", "8% Deadly Strike", "+(12 to 14) to Noctule", "+(36 to 40) to all Attributes", "Socketed (6)"]
       }
     ]
   },
@@ -2714,15 +1901,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: 7 to 10"
-        ],
-        "requirement": [
-          "Required Level: 5",
-          "Required Strength: 33",
-          "Item Level: 8",
-          "Strength Damage Bonus: (0.22 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 7 to 10"],
+        "requirement": ["Required Level: 5", "Required Strength: 33", "Item Level: 8", "Strength Damage Bonus: (0.22 per Strength)%"],
         "attribute": [
           "10% Chance to cast level 10 Apocalypse on Melee Attack",
           "+(1 to 2) to Druid Skill Levels",
@@ -2737,15 +1917,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: 12 to 18"
-        ],
-        "requirement": [
-          "Required Level: 24",
-          "Required Strength: 40",
-          "Item Level: 26",
-          "Strength Damage Bonus: (0.22 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 12 to 18"],
+        "requirement": ["Required Level: 24", "Required Strength: 40", "Item Level: 26", "Strength Damage Bonus: (0.22 per Strength)%"],
         "attribute": [
           "10% Chance to cast level 19 Apocalypse on Melee Attack",
           "+(2 to 3) to Druid Skill Levels",
@@ -2760,15 +1933,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: 19 to 26"
-        ],
-        "requirement": [
-          "Required Level: 42",
-          "Required Strength: 73",
-          "Item Level: 47",
-          "Strength Damage Bonus: (0.22 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 19 to 26"],
+        "requirement": ["Required Level: 42", "Required Strength: 73", "Item Level: 47", "Strength Damage Bonus: (0.22 per Strength)%"],
         "attribute": [
           "10% Chance to cast level 33 Apocalypse on Melee Attack",
           "+(3 to 4) to Druid Skill Levels",
@@ -2783,15 +1949,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: 22 to 31"
-        ],
-        "requirement": [
-          "Required Level: 51",
-          "Required Strength: 128",
-          "Item Level: 81",
-          "Strength Damage Bonus: (0.22 per Strength)%"
-        ],
+        "damage": ["One-Hand Damage: 22 to 31"],
+        "requirement": ["Required Level: 51", "Required Strength: 128", "Item Level: 81", "Strength Damage Bonus: (0.22 per Strength)%"],
         "attribute": [
           "10% Chance to cast level 43 Apocalypse on Melee Attack",
           "+(4 to 5) to Druid Skill Levels",
@@ -2813,15 +1972,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: (17 - 20) to (53 - 75)"
-        ],
-        "requirement": [
-          "Required Level: 7",
-          "Required Strength: 93",
-          "Item Level: 11",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (17 - 20) to (53 - 75)"],
+        "requirement": ["Required Level: 7", "Required Strength: 93", "Item Level: 11", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "+1 to All Skills",
           "+(24 to 43)% Enhanced Damage",
@@ -2836,15 +1988,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: (42 - 47) to (116 - 132)"
-        ],
-        "requirement": [
-          "Required Level: 25",
-          "Required Strength: 137",
-          "Item Level: 28",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (42 - 47) to (116 - 132)"],
+        "requirement": ["Required Level: 25", "Required Strength: 137", "Item Level: 28", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "+(1 to 2) to All Skills",
           "+(64 to 83)% Enhanced Damage",
@@ -2859,15 +2004,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: (81 - 89) to (187 - 205)"
-        ],
-        "requirement": [
-          "Required Level: 44",
-          "Required Strength: 270",
-          "Item Level: 48",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (81 - 89) to (187 - 205)"],
+        "requirement": ["Required Level: 44", "Required Strength: 270", "Item Level: 48", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "+2 to All Skills",
           "+(104 to 123)% Enhanced Damage",
@@ -2882,15 +2020,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: (105 - 114) to (237 - 258)"
-        ],
-        "requirement": [
-          "Required Level: 53",
-          "Required Strength: 532",
-          "Item Level: 84",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (105 - 114) to (237 - 258)"],
+        "requirement": ["Required Level: 53", "Required Strength: 532", "Item Level: 84", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "+3 to All Skills",
           "+(124 to 143)% Enhanced Damage",
@@ -2912,15 +2043,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: (19 - 22) to (28 - 51)"
-        ],
-        "requirement": [
-          "Required Level: 11",
-          "Required Strength: 117",
-          "Item Level: 17",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (19 - 22) to (28 - 51)"],
+        "requirement": ["Required Level: 11", "Required Strength: 117", "Item Level: 17", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "+(24 to 43)% Enhanced Damage",
           "+(1 to 20) to Maximum Damage",
@@ -2934,15 +2058,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: (49 - 54) to (84 - 111)"
-        ],
-        "requirement": [
-          "Required Level: 29",
-          "Required Strength: 168",
-          "Item Level: 32",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (49 - 54) to (84 - 111)"],
+        "requirement": ["Required Level: 29", "Required Strength: 168", "Item Level: 32", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "+(64 to 83)% Enhanced Damage",
           "+(21 to 40) to Maximum Damage",
@@ -2956,15 +2073,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: (93 - 102) to (153 - 193)"
-        ],
-        "requirement": [
-          "Required Level: 48",
-          "Required Strength: 326",
-          "Item Level: 53",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (93 - 102) to (153 - 193)"],
+        "requirement": ["Required Level: 48", "Required Strength: 326", "Item Level: 53", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "+(104 to 123)% Enhanced Damage",
           "+(31 to 60) to Maximum Damage",
@@ -2978,15 +2088,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: (109 - 119) to (209 - 262)"
-        ],
-        "requirement": [
-          "Required Level: 55",
-          "Required Strength: 640",
-          "Item Level: 87",
-          "Strength Damage Bonus: (0.26 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (109 - 119) to (209 - 262)"],
+        "requirement": ["Required Level: 55", "Required Strength: 640", "Item Level: 87", "Strength Damage Bonus: (0.26 per Strength)%"],
         "attribute": [
           "+(124 to 143)% Enhanced Damage",
           "+(41 to 80) to Maximum Damage",
@@ -3007,15 +2110,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: 4 to 5"
-        ],
-        "requirement": [
-          "Required Level: 1",
-          "Required Dexterity: 16",
-          "Item Level: 1",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["One-Hand Damage: 4 to 5"],
+        "requirement": ["Required Level: 1", "Required Dexterity: 16", "Item Level: 1", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "+1 to Amazon Skill Levels",
           "(5 to 20)% Cast Speed",
@@ -3029,15 +2125,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: 8 to 9"
-        ],
-        "requirement": [
-          "Required Level: 18",
-          "Required Dexterity: 37",
-          "Item Level: 20",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["One-Hand Damage: 8 to 9"],
+        "requirement": ["Required Level: 18", "Required Dexterity: 37", "Item Level: 20", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "+2 to Amazon Skill Levels",
           "(11 to 30)% Cast Speed",
@@ -3051,15 +2140,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: 13 to 15"
-        ],
-        "requirement": [
-          "Required Level: 37",
-          "Required Dexterity: 83",
-          "Item Level: 41",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["One-Hand Damage: 13 to 15"],
+        "requirement": ["Required Level: 37", "Required Dexterity: 83", "Item Level: 41", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "+3 to Amazon Skill Levels",
           "(21 to 40)% Cast Speed",
@@ -3073,15 +2155,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: 16 to 18"
-        ],
-        "requirement": [
-          "Required Level: 46",
-          "Required Dexterity: 171",
-          "Item Level: 72",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["One-Hand Damage: 16 to 18"],
+        "requirement": ["Required Level: 46", "Required Dexterity: 171", "Item Level: 72", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "+4 to Amazon Skill Levels",
           "(31 to 50)% Cast Speed",
@@ -3102,15 +2177,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: 6 to 9"
-        ],
-        "requirement": [
-          "Required Level: 4",
-          "Required Dexterity: 40",
-          "Item Level: 6",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["One-Hand Damage: 6 to 9"],
+        "requirement": ["Required Level: 4", "Required Dexterity: 40", "Item Level: 6", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "+1 to Paladin Skill Levels",
           "5% Cast Speed",
@@ -3125,15 +2193,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: 12 to 16"
-        ],
-        "requirement": [
-          "Required Level: 23",
-          "Required Dexterity: 67",
-          "Item Level: 25",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["One-Hand Damage: 12 to 16"],
+        "requirement": ["Required Level: 23", "Required Dexterity: 67", "Item Level: 25", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "+2 to Paladin Skill Levels",
           "15% Cast Speed",
@@ -3148,15 +2209,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: 19 to 25"
-        ],
-        "requirement": [
-          "Required Level: 41",
-          "Required Dexterity: 139",
-          "Item Level: 46",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["One-Hand Damage: 19 to 25"],
+        "requirement": ["Required Level: 41", "Required Dexterity: 139", "Item Level: 46", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "+3 to Paladin Skill Levels",
           "25% Cast Speed",
@@ -3171,15 +2225,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: 22 to 29"
-        ],
-        "requirement": [
-          "Required Level: 51",
-          "Required Dexterity: 279",
-          "Item Level: 80",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["One-Hand Damage: 22 to 29"],
+        "requirement": ["Required Level: 51", "Required Dexterity: 279", "Item Level: 80", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "+4 to Paladin Skill Levels",
           "30% Cast Speed",
@@ -3201,15 +2248,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: (13 - 15) to (21 - 26)"
-        ],
-        "requirement": [
-          "Required Level: 7",
-          "Required Dexterity: 64",
-          "Item Level: 12",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["One-Hand Damage: (13 - 15) to (21 - 26)"],
+        "requirement": ["Required Level: 7", "Required Dexterity: 64", "Item Level: 12", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "4% Chance to cast level 8 Nightmare on Melee Attack",
           "+1 to Amazon Skill Levels",
@@ -3225,15 +2265,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: (32 - 37) to (48 - 58)"
-        ],
-        "requirement": [
-          "Required Level: 26",
-          "Required Dexterity: 98",
-          "Item Level: 29",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["One-Hand Damage: (32 - 37) to (48 - 58)"],
+        "requirement": ["Required Level: 26", "Required Dexterity: 98", "Item Level: 29", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "8% Chance to cast level 16 Nightmare on Melee Attack",
           "+(1 to 2) to Amazon Skill Levels",
@@ -3249,15 +2282,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: (62 - 69) to (97 - 110)"
-        ],
-        "requirement": [
-          "Required Level: 44",
-          "Required Dexterity: 195",
-          "Item Level: 49",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["One-Hand Damage: (62 - 69) to (97 - 110)"],
+        "requirement": ["Required Level: 44", "Required Dexterity: 195", "Item Level: 49", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "12% Chance to cast level 22 Nightmare on Melee Attack",
           "+2 to Amazon Skill Levels",
@@ -3273,15 +2299,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: (82 - 89) to (124 - 138)"
-        ],
-        "requirement": [
-          "Required Level: 54",
-          "Required Dexterity: 387",
-          "Item Level: 85",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["One-Hand Damage: (82 - 89) to (124 - 138)"],
+        "requirement": ["Required Level: 54", "Required Dexterity: 387", "Item Level: 85", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "16% Chance to cast level 24 Nightmare on Melee Attack",
           "+(2 to 3) to Amazon Skill Levels",
@@ -3304,15 +2323,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Throw Damage: 1 to 7",
-          "One-Hand Damage: 5 to 7"
-        ],
-        "requirement": [
-          "Required Level: 1",
-          "Item Level: 1",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: 1 to 7", "One-Hand Damage: 5 to 7"],
+        "requirement": ["Required Level: 1", "Item Level: 1", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "40% Chance to cast level 1 Javelin on Kill",
           "100% Chance to cast level 45 Pentagram when you Level-Up",
@@ -3325,16 +2337,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Throw Damage: 9 to 13",
-          "One-Hand Damage: 8 to 10"
-        ],
-        "requirement": [
-          "Required Level: 18",
-          "Required Dexterity: 18",
-          "Item Level: 20",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: 9 to 13", "One-Hand Damage: 8 to 10"],
+        "requirement": ["Required Level: 18", "Required Dexterity: 18", "Item Level: 20", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "43% Chance to cast level 1 Javelin on Kill",
           "100% Chance to cast level 50 Pentagram when you Level-Up",
@@ -3347,16 +2351,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Throw Damage: 19 to 23",
-          "One-Hand Damage: 13 to 16"
-        ],
-        "requirement": [
-          "Required Level: 36",
-          "Required Dexterity: 49",
-          "Item Level: 41",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: 19 to 23", "One-Hand Damage: 13 to 16"],
+        "requirement": ["Required Level: 36", "Required Dexterity: 49", "Item Level: 41", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "46% Chance to cast level 1 Javelin on Kill",
           "100% Chance to cast level 55 Pentagram when you Level-Up",
@@ -3369,16 +2365,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Throw Damage: 24 to 29",
-          "One-Hand Damage: 16 to 18"
-        ],
-        "requirement": [
-          "Required Level: 46",
-          "Required Dexterity: 104",
-          "Item Level: 72",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: 24 to 29", "One-Hand Damage: 16 to 18"],
+        "requirement": ["Required Level: 46", "Required Dexterity: 104", "Item Level: 72", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "50% Chance to cast level 1 Javelin on Kill",
           "100% Chance to cast level 61 Pentagram when you Level-Up",
@@ -3398,16 +2386,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Throw Damage: (4 - 5) to (13 - 18)",
-          "One-Hand Damage: (7 - 8) to (13 - 18)"
-        ],
-        "requirement": [
-          "Required Level: 3",
-          "Required Dexterity: 29",
-          "Item Level: 4",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: (4 - 5) to (13 - 18)", "One-Hand Damage: (7 - 8) to (13 - 18)"],
+        "requirement": ["Required Level: 3", "Required Dexterity: 29", "Item Level: 4", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "15% Chance to cast level 5 Punisher on Kill",
           "50% Attack Speed",
@@ -3421,16 +2401,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Throw Damage: (20 - 22) to (40 - 47)",
-          "One-Hand Damage: (15 - 17) to (31 - 36)"
-        ],
-        "requirement": [
-          "Required Level: 21",
-          "Required Dexterity: 53",
-          "Item Level: 24",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: (20 - 22) to (40 - 47)", "One-Hand Damage: (15 - 17) to (31 - 36)"],
+        "requirement": ["Required Level: 21", "Required Dexterity: 53", "Item Level: 24", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "20% Chance to cast level 17 Punisher on Kill",
           "65% Attack Speed",
@@ -3444,16 +2416,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Throw Damage: (46 - 50) to (83 - 92)",
-          "One-Hand Damage: (30 - 33) to (54 - 60)"
-        ],
-        "requirement": [
-          "Required Level: 40",
-          "Required Dexterity: 114",
-          "Item Level: 44",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: (46 - 50) to (83 - 92)", "One-Hand Damage: (30 - 33) to (54 - 60)"],
+        "requirement": ["Required Level: 40", "Required Dexterity: 114", "Item Level: 44", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "25% Chance to cast level 29 Punisher on Kill",
           "80% Attack Speed",
@@ -3467,16 +2431,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Throw Damage: (62 - 67) to (108 - 118)",
-          "One-Hand Damage: (37 - 40) to (69 - 75)"
-        ],
-        "requirement": [
-          "Required Level: 49",
-          "Required Dexterity: 230",
-          "Item Level: 77",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: (62 - 67) to (108 - 118)", "One-Hand Damage: (37 - 40) to (69 - 75)"],
+        "requirement": ["Required Level: 49", "Required Dexterity: 230", "Item Level: 77", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "30% Chance to cast level 35 Punisher on Kill",
           "100% Attack Speed",
@@ -3497,16 +2453,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Throw Damage: 7 to (26 - 31)",
-          "One-Hand Damage: (8 - 9) to (22 - 27)"
-        ],
-        "requirement": [
-          "Required Level: 5",
-          "Required Dexterity: 47",
-          "Item Level: 7",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: 7 to (26 - 31)", "One-Hand Damage: (8 - 9) to (22 - 27)"],
+        "requirement": ["Required Level: 5", "Required Dexterity: 47", "Item Level: 7", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "7% Chance to cast level 10 Shatter the Flesh on Kill",
           "+1 to Amazon Skill Levels",
@@ -3521,16 +2469,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Throw Damage: (22 - 24) to (56 - 64)",
-          "One-Hand Damage: (16 - 18) to (41 - 47)"
-        ],
-        "requirement": [
-          "Required Level: 23",
-          "Required Dexterity: 76",
-          "Item Level: 26",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: (22 - 24) to (56 - 64)", "One-Hand Damage: (16 - 18) to (41 - 47)"],
+        "requirement": ["Required Level: 23", "Required Dexterity: 76", "Item Level: 26", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "8% Chance to cast level 20 Shatter the Flesh on Kill",
           "+2 to Amazon Skill Levels",
@@ -3545,16 +2485,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Throw Damage: (47 - 50) to (99 - 109)",
-          "One-Hand Damage: (29 - 31) to (65 - 72)"
-        ],
-        "requirement": [
-          "Required Level: 42",
-          "Required Dexterity: 155",
-          "Item Level: 46",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: (47 - 50) to (99 - 109)", "One-Hand Damage: (29 - 31) to (65 - 72)"],
+        "requirement": ["Required Level: 42", "Required Dexterity: 155", "Item Level: 46", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "9% Chance to cast level 30 Shatter the Flesh on Kill",
           "+2 to Amazon Skill Levels",
@@ -3569,16 +2501,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Throw Damage: (63 - 66) to (127 - 137)",
-          "One-Hand Damage: (36 - 39) to (82 - 89)"
-        ],
-        "requirement": [
-          "Required Level: 51",
-          "Required Dexterity: 310",
-          "Item Level: 80",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: (63 - 66) to (127 - 137)", "One-Hand Damage: (36 - 39) to (82 - 89)"],
+        "requirement": ["Required Level: 51", "Required Dexterity: 310", "Item Level: 80", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "10% Chance to cast level 40 Shatter the Flesh on Kill",
           "+3 to Amazon Skill Levels",
@@ -3600,16 +2524,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Throw Damage: (10 - 12) to (34 - 42)",
-          "One-Hand Damage: (10 - 12) to (28 - 34)"
-        ],
-        "requirement": [
-          "Required Level: 7",
-          "Required Dexterity: 65",
-          "Item Level: 11",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: (10 - 12) to (34 - 42)", "One-Hand Damage: (10 - 12) to (28 - 34)"],
+        "requirement": ["Required Level: 7", "Required Dexterity: 65", "Item Level: 11", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "4% Chance to cast level 4 Fortress on Kill",
           "+(31 to 50)% Enhanced Damage",
@@ -3623,16 +2539,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Throw Damage: (31 - 35) to (76 - 89)",
-          "One-Hand Damage: (20 - 22) to (52 - 63)"
-        ],
-        "requirement": [
-          "Required Level: 25",
-          "Required Dexterity: 99",
-          "Item Level: 28",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: (31 - 35) to (76 - 89)", "One-Hand Damage: (20 - 22) to (52 - 63)"],
+        "requirement": ["Required Level: 25", "Required Dexterity: 99", "Item Level: 28", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "5% Chance to cast level 10 Fortress on Kill",
           "+(58 to 75)% Enhanced Damage",
@@ -3646,16 +2554,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Throw Damage: (66 - 73) to (148 - 168)",
-          "One-Hand Damage: (38 - 42) to (97 - 112)"
-        ],
-        "requirement": [
-          "Required Level: 44",
-          "Required Dexterity: 197",
-          "Item Level: 48",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: (66 - 73) to (148 - 168)", "One-Hand Damage: (38 - 42) to (97 - 112)"],
+        "requirement": ["Required Level: 44", "Required Dexterity: 197", "Item Level: 48", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "6% Chance to cast level 16 Fortress on Kill",
           "+(91 to 110)% Enhanced Damage",
@@ -3669,16 +2569,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Throw Damage: (92 - 100) to (227 - 250)",
-          "One-Hand Damage: (53 - 57) to (154 - 171)"
-        ],
-        "requirement": [
-          "Required Level: 53",
-          "Required Dexterity: 391",
-          "Item Level: 84",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: (92 - 100) to (227 - 250)", "One-Hand Damage: (53 - 57) to (154 - 171)"],
+        "requirement": ["Required Level: 53", "Required Dexterity: 391", "Item Level: 84", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "7% Chance to cast level 19 Fortress on Kill",
           "+(121 to 140)% Enhanced Damage",
@@ -3699,16 +2591,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Throw Damage: (15 - 18) to (44 - 59)",
-          "One-Hand Damage: (12 - 14) to (33 - 47)"
-        ],
-        "requirement": [
-          "Required Level: 10",
-          "Required Dexterity: 95",
-          "Item Level: 16",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: (15 - 18) to (44 - 59)", "One-Hand Damage: (12 - 14) to (33 - 47)"],
+        "requirement": ["Required Level: 10", "Required Dexterity: 95", "Item Level: 16", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "20% Attack Speed",
           "+(51 to 80)% Enhanced Damage",
@@ -3724,16 +2608,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Throw Damage: (41 - 48) to (98 - 120)",
-          "One-Hand Damage: (27 - 31) to (66 - 82)"
-        ],
-        "requirement": [
-          "Required Level: 29",
-          "Required Dexterity: 153",
-          "Item Level: 32",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: (41 - 48) to (98 - 120)", "One-Hand Damage: (27 - 31) to (66 - 82)"],
+        "requirement": ["Required Level: 29", "Required Dexterity: 153", "Item Level: 32", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "30% Attack Speed",
           "+(81 to 110)% Enhanced Damage",
@@ -3749,16 +2625,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Throw Damage: (80 - 91) to (181 - 210)",
-          "One-Hand Damage: (48 - 55) to (114 - 133)"
-        ],
-        "requirement": [
-          "Required Level: 47",
-          "Required Dexterity: 322",
-          "Item Level: 53",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: (80 - 91) to (181 - 210)", "One-Hand Damage: (48 - 55) to (114 - 133)"],
+        "requirement": ["Required Level: 47", "Required Dexterity: 322", "Item Level: 53", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "40% Attack Speed",
           "+(111 to 140)% Enhanced Damage",
@@ -3774,16 +2642,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Throw Damage: (113 - 126) to (255 - 294)",
-          "One-Hand Damage: (62 - 70) to (157 - 183)"
-        ],
-        "requirement": [
-          "Required Level: 55",
-          "Required Dexterity: 708",
-          "Item Level: 86",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: (113 - 126) to (255 - 294)", "One-Hand Damage: (62 - 70) to (157 - 183)"],
+        "requirement": ["Required Level: 55", "Required Dexterity: 708", "Item Level: 86", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "50% Attack Speed",
           "+(141 to 170)% Enhanced Damage",
@@ -3806,14 +2666,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: (5 - 6) to (32 - 43)"
-        ],
-        "requirement": [
-          "Required Level: 1",
-          "Item Level: 1",
-          "Dexterity Damage Bonus: (0.25 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (5 - 6) to (32 - 43)"],
+        "requirement": ["Required Level: 1", "Item Level: 1", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
         "attribute": [
           "15% Chance to cast level 15 Flamefront on Melee Attack",
           "15% Attack Speed",
@@ -3828,16 +2682,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: (15 - 16) to (52 - 63)"
-        ],
-        "requirement": [
-          "Required Level: 18",
-          "Required Strength: 18",
-          "Required Dexterity: 18",
-          "Item Level: 20",
-          "Dexterity Damage Bonus: (0.25 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (15 - 16) to (52 - 63)"],
+        "requirement": ["Required Level: 18", "Required Strength: 18", "Required Dexterity: 18", "Item Level: 20", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
         "attribute": [
           "20% Chance to cast level 20 Flamefront on Melee Attack",
           "30% Attack Speed",
@@ -3852,16 +2698,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: (33 - 36) to (84 - 96)"
-        ],
-        "requirement": [
-          "Required Level: 36",
-          "Required Strength: 49",
-          "Required Dexterity: 49",
-          "Item Level: 40",
-          "Dexterity Damage Bonus: (0.25 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (33 - 36) to (84 - 96)"],
+        "requirement": ["Required Level: 36", "Required Strength: 49", "Required Dexterity: 49", "Item Level: 40", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
         "attribute": [
           "30% Chance to cast level 30 Flamefront on Melee Attack",
           "45% Attack Speed",
@@ -3876,16 +2714,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: (44 - 48) to (110 - 123)"
-        ],
-        "requirement": [
-          "Required Level: 46",
-          "Required Strength: 104",
-          "Required Dexterity: 104",
-          "Item Level: 72",
-          "Dexterity Damage Bonus: (0.25 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (44 - 48) to (110 - 123)"],
+        "requirement": ["Required Level: 46", "Required Strength: 104", "Required Dexterity: 104", "Item Level: 72", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
         "attribute": [
           "40% Chance to cast level 40 Flamefront on Melee Attack",
           "60% Attack Speed",
@@ -3907,16 +2737,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: (6 - 7) to (12 - 14)"
-        ],
-        "requirement": [
-          "Required Level: 3",
-          "Required Strength: 18",
-          "Required Dexterity: 29",
-          "Item Level: 4",
-          "Dexterity Damage Bonus: (0.25 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (6 - 7) to (12 - 14)"],
+        "requirement": ["Required Level: 3", "Required Strength: 18", "Required Dexterity: 29", "Item Level: 4", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
         "attribute": [
           "5% Chance to cast level 2 Glacial Nova on Melee Attack",
           "+(24 to 40)% Enhanced Damage",
@@ -3930,16 +2752,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: (18 - 21) to (33 - 36)"
-        ],
-        "requirement": [
-          "Required Level: 21",
-          "Required Strength: 39",
-          "Required Dexterity: 53",
-          "Item Level: 24",
-          "Dexterity Damage Bonus: (0.25 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (18 - 21) to (33 - 36)"],
+        "requirement": ["Required Level: 21", "Required Strength: 39", "Required Dexterity: 53", "Item Level: 24", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
         "attribute": [
           "6% Chance to cast level 6 Glacial Nova on Melee Attack",
           "+(58 to 75)% Enhanced Damage",
@@ -3953,16 +2767,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: (38 - 41) to (63 - 68)"
-        ],
-        "requirement": [
-          "Required Level: 40",
-          "Required Strength: 88",
-          "Required Dexterity: 114",
-          "Item Level: 44",
-          "Dexterity Damage Bonus: (0.25 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (38 - 41) to (63 - 68)"],
+        "requirement": ["Required Level: 40", "Required Strength: 88", "Required Dexterity: 114", "Item Level: 44", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
         "attribute": [
           "7% Chance to cast level 10 Glacial Nova on Melee Attack",
           "+(92 to 109)% Enhanced Damage",
@@ -3976,16 +2782,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: (50 - 54) to (83 - 90)"
-        ],
-        "requirement": [
-          "Required Level: 49",
-          "Required Strength: 180",
-          "Required Dexterity: 230",
-          "Item Level: 77",
-          "Dexterity Damage Bonus: (0.25 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (50 - 54) to (83 - 90)"],
+        "requirement": ["Required Level: 49", "Required Strength: 180", "Required Dexterity: 230", "Item Level: 77", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
         "attribute": [
           "8% Chance to cast level 12 Glacial Nova on Melee Attack",
           "+(109 to 126)% Enhanced Damage",
@@ -4006,16 +2804,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: (9 - 10) to (33 - 45)"
-        ],
-        "requirement": [
-          "Required Level: 5",
-          "Required Strength: 30",
-          "Required Dexterity: 46",
-          "Item Level: 7",
-          "Dexterity Damage Bonus: (0.25 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (9 - 10) to (33 - 45)"],
+        "requirement": ["Required Level: 5", "Required Strength: 30", "Required Dexterity: 46", "Item Level: 7", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
         "attribute": [
           "+(61 to 80)% Enhanced Damage",
           "+(11 to 20) to Maximum Damage",
@@ -4029,16 +2819,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: (24 - 27) to (82 - 96)"
-        ],
-        "requirement": [
-          "Required Level: 23",
-          "Required Strength: 55",
-          "Required Dexterity: 75",
-          "Item Level: 26",
-          "Dexterity Damage Bonus: (0.25 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (24 - 27) to (82 - 96)"],
+        "requirement": ["Required Level: 23", "Required Strength: 55", "Required Dexterity: 75", "Item Level: 26", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
         "attribute": [
           "+(91 to 110)% Enhanced Damage",
           "+(31 to 40) to Maximum Damage",
@@ -4052,16 +2834,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: (48 - 52) to (146 - 163)"
-        ],
-        "requirement": [
-          "Required Level: 42",
-          "Required Strength: 116",
-          "Required Dexterity: 153",
-          "Item Level: 46",
-          "Dexterity Damage Bonus: (0.25 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (48 - 52) to (146 - 163)"],
+        "requirement": ["Required Level: 42", "Required Strength: 116", "Required Dexterity: 153", "Item Level: 46", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
         "attribute": [
           "+(121 to 140)% Enhanced Damage",
           "+(51 to 60) to Maximum Damage",
@@ -4075,16 +2849,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: (65 - 70) to (209 - 227)"
-        ],
-        "requirement": [
-          "Required Level: 51",
-          "Required Strength: 234",
-          "Required Dexterity: 306",
-          "Item Level: 80",
-          "Dexterity Damage Bonus: (0.25 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (65 - 70) to (209 - 227)"],
+        "requirement": ["Required Level: 51", "Required Strength: 234", "Required Dexterity: 306", "Item Level: 80", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
         "attribute": [
           "+(151 to 170)% Enhanced Damage",
           "+(81 to 90) to Maximum Damage",
@@ -4105,16 +2871,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: (17 - 20) to (44 - 56)"
-        ],
-        "requirement": [
-          "Required Level: 24",
-          "Required Strength: 42",
-          "Required Dexterity: 63",
-          "Item Level: 10",
-          "Dexterity Damage Bonus: (0.25 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (17 - 20) to (44 - 56)"],
+        "requirement": ["Required Level: 24", "Required Strength: 42", "Required Dexterity: 63", "Item Level: 10", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
         "attribute": [
           "10% Chance to cast level 5 Miasma on Melee Attack",
           "15% Attack Speed",
@@ -4128,16 +2886,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: (33 - 40) to (86 - 101)"
-        ],
-        "requirement": [
-          "Required Level: 25",
-          "Required Strength: 70",
-          "Required Dexterity: 97",
-          "Item Level: 28",
-          "Dexterity Damage Bonus: (0.25 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (33 - 40) to (86 - 101)"],
+        "requirement": ["Required Level: 25", "Required Strength: 70", "Required Dexterity: 97", "Item Level: 28", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
         "attribute": [
           "15% Chance to cast level 11 Miasma on Melee Attack",
           "30% Attack Speed",
@@ -4151,16 +2901,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: (63 - 71) to (143 - 161)"
-        ],
-        "requirement": [
-          "Required Level: 44",
-          "Required Strength: 144",
-          "Required Dexterity: 193",
-          "Item Level: 48",
-          "Dexterity Damage Bonus: (0.25 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (63 - 71) to (143 - 161)"],
+        "requirement": ["Required Level: 44", "Required Strength: 144", "Required Dexterity: 193", "Item Level: 48", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
         "attribute": [
           "20% Chance to cast level 18 Miasma on Melee Attack",
           "45% Attack Speed",
@@ -4174,16 +2916,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: (83 - 97) to (184 - 203)"
-        ],
-        "requirement": [
-          "Required Level: 53",
-          "Required Strength: 288",
-          "Required Dexterity: 382",
-          "Item Level: 83",
-          "Dexterity Damage Bonus: (0.25 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (83 - 97) to (184 - 203)"],
+        "requirement": ["Required Level: 53", "Required Strength: 288", "Required Dexterity: 382", "Item Level: 83", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
         "attribute": [
           "25% Chance to cast level 25 Miasma on Melee Attack",
           "60% Attack Speed",
@@ -4204,16 +2938,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: (12 - 16) to (34 - 47)"
-        ],
-        "requirement": [
-          "Required Level: 10",
-          "Required Strength: 45 to 48",
-          "Required Dexterity: 68 to 71",
-          "Item Level: 16",
-          "Dexterity Damage Bonus: (0.25 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (12 - 16) to (34 - 47)"],
+        "requirement": ["Required Level: 10", "Required Strength: 45 to 48", "Required Dexterity: 68 to 71", "Item Level: 16", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
         "attribute": [
           "14% Chance to cast level 4 Arachnomancy on Melee Attack",
           "15% Attack Speed",
@@ -4228,16 +2954,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: (33 - 45) to (91 - 109)"
-        ],
-        "requirement": [
-          "Required Level: 29",
-          "Required Strength: 63 to 67",
-          "Required Dexterity: 88 to 93",
-          "Item Level: 32",
-          "Dexterity Damage Bonus: (0.25 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (33 - 45) to (91 - 109)"],
+        "requirement": ["Required Level: 29", "Required Strength: 63 to 67", "Required Dexterity: 88 to 93", "Item Level: 32", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
         "attribute": [
           "16% Chance to cast level 17 Arachnomancy on Melee Attack",
           "25% Attack Speed",
@@ -4252,16 +2970,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: (72 - 87) to (171 - 199)"
-        ],
-        "requirement": [
-          "Required Level: 47",
-          "Required Strength: 111 to 118",
-          "Required Dexterity: 150 to 160",
-          "Item Level: 52",
-          "Dexterity Damage Bonus: (0.25 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (72 - 87) to (171 - 199)"],
+        "requirement": ["Required Level: 47", "Required Strength: 111 to 118", "Required Dexterity: 150 to 160", "Item Level: 52", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
         "attribute": [
           "18% Chance to cast level 30 Arachnomancy on Melee Attack",
           "35% Attack Speed",
@@ -4276,16 +2986,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: (83 - 96) to (265 - 292)"
-        ],
-        "requirement": [
-          "Required Level: 55",
-          "Required Strength: 205 to 218",
-          "Required Dexterity: 274 to 293",
-          "Item Level: 86",
-          "Dexterity Damage Bonus: (0.25 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (83 - 96) to (265 - 292)"],
+        "requirement": ["Required Level: 55", "Required Strength: 205 to 218", "Required Dexterity: 274 to 293", "Item Level: 86", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
         "attribute": [
           "20% Chance to cast level 44 Arachnomancy on Melee Attack",
           "40% Attack Speed",
@@ -4307,16 +3009,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: (4 - 5) to (38 - 50)"
-        ],
-        "requirement": [
-          "Required Level: 6",
-          "Required Strength: 49",
-          "Required Dexterity: 49",
-          "Item Level: 9",
-          "Dexterity Damage Bonus: (0.25 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (4 - 5) to (38 - 50)"],
+        "requirement": ["Required Level: 6", "Required Strength: 49", "Required Dexterity: 49", "Item Level: 9", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
         "attribute": [
           "6% Chance to cast level 5 Crucify on Melee Attack",
           "+(24 to 40)% Enhanced Damage",
@@ -4329,16 +3023,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: (15 - 17) to (83 - 97)"
-        ],
-        "requirement": [
-          "Required Level: 24",
-          "Required Strength: 79",
-          "Required Dexterity: 79",
-          "Item Level: 27",
-          "Dexterity Damage Bonus: (0.25 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (15 - 17) to (83 - 97)"],
+        "requirement": ["Required Level: 24", "Required Strength: 79", "Required Dexterity: 79", "Item Level: 27", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
         "attribute": [
           "8% Chance to cast level 10 Crucify on Melee Attack",
           "+(58 to 75)% Enhanced Damage",
@@ -4351,16 +3037,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: (32 - 35) to (145 - 163)"
-        ],
-        "requirement": [
-          "Required Level: 43",
-          "Required Strength: 160",
-          "Required Dexterity: 160",
-          "Item Level: 47",
-          "Dexterity Damage Bonus: (0.25 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (32 - 35) to (145 - 163)"],
+        "requirement": ["Required Level: 43", "Required Strength: 160", "Required Dexterity: 160", "Item Level: 47", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
         "attribute": [
           "10% Chance to cast level 15 Crucify on Melee Attack",
           "+(92 to 109)% Enhanced Damage",
@@ -4373,16 +3051,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: (43 - 47) to (190 - 210)"
-        ],
-        "requirement": [
-          "Required Level: 52",
-          "Required Strength: 319",
-          "Required Dexterity: 319",
-          "Item Level: 82",
-          "Dexterity Damage Bonus: (0.25 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (43 - 47) to (190 - 210)"],
+        "requirement": ["Required Level: 52", "Required Strength: 319", "Required Dexterity: 319", "Item Level: 82", "Dexterity Damage Bonus: (0.25 per Dexterity)%"],
         "attribute": [
           "12% Chance to cast level 20 Crucify on Melee Attack",
           "+(109 to 126)% Enhanced Damage",
@@ -4402,78 +3072,27 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: (4 - 5) to (5 - 6)"
-        ],
-        "requirement": [
-          "Required Level: 1",
-          "Item Level: 1",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
-        "attribute": [
-          "+(12 to 35)% Enhanced Damage",
-          "+25 poison damage over 1 seconds",
-          "-3% to Enemy Poison Resistance",
-          "Slow Target (3 to 5)%",
-          "Socketed (1)"
-        ]
+        "damage": ["One-Hand Damage: (4 - 5) to (5 - 6)"],
+        "requirement": ["Required Level: 1", "Item Level: 1", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": ["+(12 to 35)% Enhanced Damage", "+25 poison damage over 1 seconds", "-3% to Enemy Poison Resistance", "Slow Target (3 to 5)%", "Socketed (1)"]
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: (12 - 14) to (14 - 16)"
-        ],
-        "requirement": [
-          "Required Level: 18",
-          "Required Dexterity: 18",
-          "Item Level: 20",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
-        "attribute": [
-          "+(58 to 80)% Enhanced Damage",
-          "+50 poison damage over 1 seconds",
-          "-6% to Enemy Poison Resistance",
-          "Slow Target (9 to 11)%",
-          "Socketed (2)"
-        ]
+        "damage": ["One-Hand Damage: (12 - 14) to (14 - 16)"],
+        "requirement": ["Required Level: 18", "Required Dexterity: 18", "Item Level: 20", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": ["+(58 to 80)% Enhanced Damage", "+50 poison damage over 1 seconds", "-6% to Enemy Poison Resistance", "Slow Target (9 to 11)%", "Socketed (2)"]
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: (26 - 29) to (28 - 31)"
-        ],
-        "requirement": [
-          "Required Level: 36",
-          "Required Dexterity: 49",
-          "Item Level: 40",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
-        "attribute": [
-          "+(104 to 126)% Enhanced Damage",
-          "+125 poison damage over 1 seconds",
-          "-9% to Enemy Poison Resistance",
-          "Slow Target (15 to 17)%",
-          "Socketed (2)"
-        ]
+        "damage": ["One-Hand Damage: (26 - 29) to (28 - 31)"],
+        "requirement": ["Required Level: 36", "Required Dexterity: 49", "Item Level: 40", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": ["+(104 to 126)% Enhanced Damage", "+125 poison damage over 1 seconds", "-9% to Enemy Poison Resistance", "Slow Target (15 to 17)%", "Socketed (2)"]
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: (36 - 39) to (38 - 42)"
-        ],
-        "requirement": [
-          "Required Level: 45",
-          "Required Dexterity: 104",
-          "Item Level: 72",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
-        "attribute": [
-          "+(126 to 149)% Enhanced Damage",
-          "+363 poison damage over 1 seconds",
-          "-12% to Enemy Poison Resistance",
-          "Slow Target (18 to 20)%",
-          "Socketed (2)"
-        ]
+        "damage": ["One-Hand Damage: (36 - 39) to (38 - 42)"],
+        "requirement": ["Required Level: 45", "Required Dexterity: 104", "Item Level: 72", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
+        "attribute": ["+(126 to 149)% Enhanced Damage", "+363 poison damage over 1 seconds", "-12% to Enemy Poison Resistance", "Slow Target (18 to 20)%", "Socketed (2)"]
       }
     ]
   },
@@ -4484,15 +3103,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: 5"
-        ],
-        "requirement": [
-          "Required Level: 4",
-          "Required Dexterity: 25",
-          "Item Level: 6",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["One-Hand Damage: 5"],
+        "requirement": ["Required Level: 4", "Required Dexterity: 25", "Item Level: 6", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "+1 to Necromancer Skill Levels",
           "15% Cast Speed",
@@ -4507,15 +3119,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: 9 to 10"
-        ],
-        "requirement": [
-          "Required Level: 22",
-          "Required Dexterity: 48",
-          "Item Level: 25",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["One-Hand Damage: 9 to 10"],
+        "requirement": ["Required Level: 22", "Required Dexterity: 48", "Item Level: 25", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "+2 to Necromancer Skill Levels",
           "25% Cast Speed",
@@ -4530,15 +3135,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: 15 to 16"
-        ],
-        "requirement": [
-          "Required Level: 41",
-          "Required Dexterity: 104",
-          "Item Level: 45",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["One-Hand Damage: 15 to 16"],
+        "requirement": ["Required Level: 41", "Required Dexterity: 104", "Item Level: 45", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "+3 to Necromancer Skill Levels",
           "35% Cast Speed",
@@ -4553,15 +3151,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: 18 to 20"
-        ],
-        "requirement": [
-          "Required Level: 50",
-          "Required Dexterity: 212",
-          "Item Level: 79",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["One-Hand Damage: 18 to 20"],
+        "requirement": ["Required Level: 50", "Required Dexterity: 212", "Item Level: 79", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "+(4 to 5) to Necromancer Skill Levels",
           "40% Cast Speed",
@@ -4583,15 +3174,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: 6"
-        ],
-        "requirement": [
-          "Required Level: 6",
-          "Required Dexterity: 43",
-          "Item Level: 9",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["One-Hand Damage: 6"],
+        "requirement": ["Required Level: 6", "Required Dexterity: 43", "Item Level: 9", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "+1 to Druid Skill Levels",
           "+1 to Sorceress Skill Levels",
@@ -4605,15 +3189,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: 11 to 12"
-        ],
-        "requirement": [
-          "Required Level: 24",
-          "Required Dexterity: 71",
-          "Item Level: 27",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["One-Hand Damage: 11 to 12"],
+        "requirement": ["Required Level: 24", "Required Dexterity: 71", "Item Level: 27", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "+2 to Druid Skill Levels",
           "+2 to Sorceress Skill Levels",
@@ -4627,15 +3204,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: 17 to 19"
-        ],
-        "requirement": [
-          "Required Level: 43",
-          "Required Dexterity: 146",
-          "Item Level: 47",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["One-Hand Damage: 17 to 19"],
+        "requirement": ["Required Level: 43", "Required Dexterity: 146", "Item Level: 47", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "+3 to Druid Skill Levels",
           "+3 to Sorceress Skill Levels",
@@ -4649,15 +3219,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: 20 to 23"
-        ],
-        "requirement": [
-          "Required Level: 52",
-          "Required Dexterity: 292",
-          "Item Level: 82",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["One-Hand Damage: 20 to 23"],
+        "requirement": ["Required Level: 52", "Required Dexterity: 292", "Item Level: 82", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "+4 to Druid Skill Levels",
           "+4 to Sorceress Skill Levels",
@@ -4678,15 +3241,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "One-Hand Damage: (7 - 8) to (19 - 30)"
-        ],
-        "requirement": [
-          "Required Level: 10",
-          "Required Dexterity: 61",
-          "Item Level: 15",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["One-Hand Damage: (7 - 8) to (19 - 30)"],
+        "requirement": ["Required Level: 10", "Required Dexterity: 61", "Item Level: 15", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "+1 to Druid Skill Levels",
           "+5% Bonus Damage to Mark of the Wild",
@@ -4701,15 +3257,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "One-Hand Damage: (20 - 23) to (54 - 66)"
-        ],
-        "requirement": [
-          "Required Level: 28",
-          "Required Dexterity: 95",
-          "Item Level: 32",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["One-Hand Damage: (20 - 23) to (54 - 66)"],
+        "requirement": ["Required Level: 28", "Required Dexterity: 95", "Item Level: 32", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "+(1 to 2) to Druid Skill Levels",
           "+10% Bonus Damage to Mark of the Wild",
@@ -4724,15 +3273,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "One-Hand Damage: (40 - 45) to (96 - 109)"
-        ],
-        "requirement": [
-          "Required Level: 47",
-          "Required Dexterity: 188",
-          "Item Level: 52",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["One-Hand Damage: (40 - 45) to (96 - 109)"],
+        "requirement": ["Required Level: 47", "Required Dexterity: 188", "Item Level: 52", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "+(2 to 3) to Druid Skill Levels",
           "+15% Bonus Damage to Mark of the Wild",
@@ -4747,15 +3289,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "One-Hand Damage: (52 - 57) to (122 - 137)"
-        ],
-        "requirement": [
-          "Required Level: 54",
-          "Required Dexterity: 373",
-          "Item Level: 86",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["One-Hand Damage: (52 - 57) to (122 - 137)"],
+        "requirement": ["Required Level: 54", "Required Dexterity: 373", "Item Level: 86", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "+(2 to 4) to Druid Skill Levels",
           "+20% Bonus Damage to Mark of the Wild",
@@ -4777,16 +3312,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Throw Damage: 2 to 7",
-          "One-Hand Damage: 4 to 6"
-        ],
-        "requirement": [
-          "Required Level: 1",
-          "Required Dexterity: 17",
-          "Item Level: 1",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: 2 to 7", "One-Hand Damage: 4 to 6"],
+        "requirement": ["Required Level: 1", "Required Dexterity: 17", "Item Level: 1", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "2% Chance to cast level 8 Scorpion Blade on Kill",
           "+1 to Assassin Skill Levels",
@@ -4799,16 +3326,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Throw Damage: 9 to 10",
-          "One-Hand Damage: 8"
-        ],
-        "requirement": [
-          "Required Level: 18",
-          "Required Dexterity: 45",
-          "Item Level: 20",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: 9 to 10", "One-Hand Damage: 8"],
+        "requirement": ["Required Level: 18", "Required Dexterity: 45", "Item Level: 20", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "3% Chance to cast level 16 Scorpion Blade on Kill",
           "+2 to Assassin Skill Levels",
@@ -4821,16 +3340,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Throw Damage: 17 to 18",
-          "One-Hand Damage: 12"
-        ],
-        "requirement": [
-          "Required Level: 36",
-          "Required Dexterity: 109",
-          "Item Level: 40",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: 17 to 18", "One-Hand Damage: 12"],
+        "requirement": ["Required Level: 36", "Required Dexterity: 109", "Item Level: 40", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "5% Chance to cast level 24 Scorpion Blade on Kill",
           "+3 to Assassin Skill Levels",
@@ -4843,16 +3354,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Throw Damage: 22 to 23",
-          "One-Hand Damage: 14"
-        ],
-        "requirement": [
-          "Required Level: 45",
-          "Required Dexterity: 250",
-          "Item Level: 72",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: 22 to 23", "One-Hand Damage: 14"],
+        "requirement": ["Required Level: 45", "Required Dexterity: 250", "Item Level: 72", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "6% Chance to cast level 32 Scorpion Blade on Kill",
           "+(4 to 5) to Assassin Skill Levels",
@@ -4872,16 +3375,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Throw Damage: (7 - 8) to (8 - 9)",
-          "One-Hand Damage: (7 - 8) to (8 - 9)"
-        ],
-        "requirement": [
-          "Required Level: 12",
-          "Required Dexterity: 53",
-          "Item Level: 6",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: (7 - 8) to (8 - 9)", "One-Hand Damage: (7 - 8) to (8 - 9)"],
+        "requirement": ["Required Level: 12", "Required Dexterity: 53", "Item Level: 6", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "1% Chance to cast level 2 Shackles of Ice on Striking",
           "+(18 to 40)% Enhanced Damage",
@@ -4895,16 +3390,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Throw Damage: (26 - 29) to (29 - 33)",
-          "One-Hand Damage: (18 - 20) to (19 - 22)"
-        ],
-        "requirement": [
-          "Required Level: 23",
-          "Required Dexterity: 84",
-          "Item Level: 25",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: (26 - 29) to (29 - 33)", "One-Hand Damage: (18 - 20) to (19 - 22)"],
+        "requirement": ["Required Level: 23", "Required Dexterity: 84", "Item Level: 25", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "1% Chance to cast level 6 Shackles of Ice on Striking",
           "+(64 to 86)% Enhanced Damage",
@@ -4918,16 +3405,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Throw Damage: (56 - 62) to (64 - 71)",
-          "One-Hand Damage: (33 - 37) to (37 - 41)"
-        ],
-        "requirement": [
-          "Required Level: 41",
-          "Required Dexterity: 169",
-          "Item Level: 46",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: (56 - 62) to (64 - 71)", "One-Hand Damage: (33 - 37) to (37 - 41)"],
+        "requirement": ["Required Level: 41", "Required Dexterity: 169", "Item Level: 46", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "1% Chance to cast level 10 Shackles of Ice on Striking",
           "+(109 to 132)% Enhanced Damage",
@@ -4941,16 +3420,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Throw Damage: (76 - 83) to (85 - 93)",
-          "One-Hand Damage: (44 - 48) to (48 - 53)"
-        ],
-        "requirement": [
-          "Required Level: 50",
-          "Required Dexterity: 337",
-          "Item Level: 80",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: (76 - 83) to (85 - 93)", "One-Hand Damage: (44 - 48) to (48 - 53)"],
+        "requirement": ["Required Level: 50", "Required Dexterity: 337", "Item Level: 80", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "1% Chance to cast level 12 Shackles of Ice on Striking",
           "+(132 to 154)% Enhanced Damage",
@@ -4971,16 +3442,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Throw Damage: (12 - 14) to (22 - 34)",
-          "One-Hand Damage: (9 - 11) to (19 - 30)"
-        ],
-        "requirement": [
-          "Required Level: 7",
-          "Required Dexterity: 91",
-          "Item Level: 12",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: (12 - 14) to (22 - 34)", "One-Hand Damage: (9 - 11) to (19 - 30)"],
+        "requirement": ["Required Level: 7", "Required Dexterity: 91", "Item Level: 12", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "5% Chance to cast level 10 Cold Fear on Kill",
           "5% Chance to cast level 3 Knife Throw on Striking",
@@ -4993,16 +3456,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Throw Damage: (37 - 42) to (69 - 83)",
-          "One-Hand Damage: (23 - 26) to (53 - 64)"
-        ],
-        "requirement": [
-          "Required Level: 26",
-          "Required Dexterity: 132",
-          "Item Level: 29",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: (37 - 42) to (69 - 83)", "One-Hand Damage: (23 - 26) to (53 - 64)"],
+        "requirement": ["Required Level: 26", "Required Dexterity: 132", "Item Level: 29", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "6% Chance to cast level 20 Cold Fear on Kill",
           "6% Chance to cast level 7 Knife Throw on Striking",
@@ -5015,16 +3470,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Throw Damage: (79 - 87) to (133 - 151)",
-          "One-Hand Damage: (45 - 49) to (94 - 108)"
-        ],
-        "requirement": [
-          "Required Level: 44",
-          "Required Dexterity: 258",
-          "Item Level: 49",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: (79 - 87) to (133 - 151)", "One-Hand Damage: (45 - 49) to (94 - 108)"],
+        "requirement": ["Required Level: 44", "Required Dexterity: 258", "Item Level: 49", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "7% Chance to cast level 30 Cold Fear on Kill",
           "7% Chance to cast level 11 Knife Throw on Striking",
@@ -5037,16 +3484,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Throw Damage: (104 - 114) to (173 - 192)",
-          "One-Hand Damage: (57 - 62) to (118 - 132)"
-        ],
-        "requirement": [
-          "Required Level: 54",
-          "Required Dexterity: 508",
-          "Item Level: 85",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Throw Damage: (104 - 114) to (173 - 192)", "One-Hand Damage: (57 - 62) to (118 - 132)"],
+        "requirement": ["Required Level: 54", "Required Dexterity: 508", "Item Level: 85", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "8% Chance to cast level 40 Cold Fear on Kill",
           "8% Chance to cast level 13 Knife Throw on Striking",
@@ -5066,11 +3505,7 @@
     "info": [
       {
         "tier": "Tier 1",
-        "requirement": [
-          "Required Level: 1",
-          "Required Strength: 15",
-          "Item Level: 1"
-        ],
+        "requirement": ["Required Level: 1", "Required Strength: 15", "Item Level: 1"],
         "attribute": [
           "+1 to Barbarian Skill Levels",
           "Adds (3 to 6)-(7 to 10) fire damage",
@@ -5083,11 +3518,7 @@
       },
       {
         "tier": "Tier 2",
-        "requirement": [
-          "Required Level: 17",
-          "Required Strength: 36",
-          "Item Level: 39"
-        ],
+        "requirement": ["Required Level: 17", "Required Strength: 36", "Item Level: 39"],
         "attribute": [
           "+2 to Barbarian Skill Levels",
           "Adds (16 to 22)-(24 to 30) fire damage",
@@ -5100,11 +3531,7 @@
       },
       {
         "tier": "Tier 3",
-        "requirement": [
-          "Required Level: 36",
-          "Required Strength: 81",
-          "Item Level: 68"
-        ],
+        "requirement": ["Required Level: 36", "Required Strength: 81", "Item Level: 68"],
         "attribute": [
           "+3 to Barbarian Skill Levels",
           "Adds (46 to 60)-(76 to 105) fire damage",
@@ -5117,11 +3544,7 @@
       },
       {
         "tier": "Tier 4",
-        "requirement": [
-          "Required Level: 45",
-          "Required Strength: 167",
-          "Item Level: 80"
-        ],
+        "requirement": ["Required Level: 45", "Required Strength: 167", "Item Level: 80"],
         "attribute": [
           "+4 to Barbarian Skill Levels",
           "Adds (121 to 180)-(241 to 300) fire damage",
@@ -5141,16 +3564,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Throw Damage: (4 - 5) to (33 - 46)",
-          "One-Hand Damage: (5 - 7) to (25 - 36)"
-        ],
-        "requirement": [
-          "Required Level: 6",
-          "Required Strength: 77",
-          "Item Level: 10",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["Throw Damage: (4 - 5) to (33 - 46)", "One-Hand Damage: (5 - 7) to (25 - 36)"],
+        "requirement": ["Required Level: 6", "Required Strength: 77", "Item Level: 10", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "1% Chance to cast level 7 Blast Wave on Kill",
           "15% Attack Speed",
@@ -5165,16 +3580,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Throw Damage: (19 - 22) to (81 - 98)",
-          "One-Hand Damage: (14 - 16) to (55 - 69)"
-        ],
-        "requirement": [
-          "Required Level: 24",
-          "Required Strength: 115",
-          "Item Level: 27",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["Throw Damage: (19 - 22) to (81 - 98)", "One-Hand Damage: (14 - 16) to (55 - 69)"],
+        "requirement": ["Required Level: 24", "Required Strength: 115", "Item Level: 27", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "2% Chance to cast level 19 Blast Wave on Kill",
           "15% Attack Speed",
@@ -5189,16 +3596,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Throw Damage: (45 - 51) to (154 - 176)",
-          "One-Hand Damage: (29 - 32) to (97 - 114)"
-        ],
-        "requirement": [
-          "Required Level: 43",
-          "Required Strength: 225",
-          "Item Level: 48",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["Throw Damage: (45 - 51) to (154 - 176)", "One-Hand Damage: (29 - 32) to (97 - 114)"],
+        "requirement": ["Required Level: 43", "Required Strength: 225", "Item Level: 48", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "2% Chance to cast level 31 Blast Wave on Kill",
           "15% Attack Speed",
@@ -5213,16 +3612,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Throw Damage: (62 - 68) to (205 - 230)",
-          "One-Hand Damage: (37 - 40) to (126 - 143)"
-        ],
-        "requirement": [
-          "Required Level: 53",
-          "Required Strength: 445",
-          "Item Level: 83",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["Throw Damage: (62 - 68) to (205 - 230)", "One-Hand Damage: (37 - 40) to (126 - 143)"],
+        "requirement": ["Required Level: 53", "Required Strength: 445", "Item Level: 83", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "3% Chance to cast level 37 Blast Wave on Kill",
           "15% Attack Speed",
@@ -5244,14 +3635,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: 2 to 4"
-        ],
-        "requirement": [
-          "Required Level: 1",
-          "Item Level: 1",
-          "Dexterity Damage Bonus: (0.1 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 2 to 4"],
+        "requirement": ["Required Level: 1", "Item Level: 1", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
         "attribute": [
           "+(31 to 50) Energy Factor to Spell Damage",
           "+(1 to 2) to All Skills",
@@ -5264,15 +3649,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: 10 to 12"
-        ],
-        "requirement": [
-          "Required Level: 17",
-          "Required Dexterity: 8",
-          "Item Level: 19",
-          "Dexterity Damage Bonus: (0.1 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 10 to 12"],
+        "requirement": ["Required Level: 17", "Required Dexterity: 8", "Item Level: 19", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
         "attribute": [
           "+(71 to 90) Energy Factor to Spell Damage",
           "+(3 to 4) to All Skills",
@@ -5285,15 +3663,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: 18 to 20"
-        ],
-        "requirement": [
-          "Required Level: 36",
-          "Required Dexterity: 25",
-          "Item Level: 39",
-          "Dexterity Damage Bonus: (0.1 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 18 to 20"],
+        "requirement": ["Required Level: 36", "Required Dexterity: 25", "Item Level: 39", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
         "attribute": [
           "+(111 to 130) Energy Factor to Spell Damage",
           "+(5 to 6) to All Skills",
@@ -5306,15 +3677,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: 22 to 24"
-        ],
-        "requirement": [
-          "Required Level: 45",
-          "Required Dexterity: 52",
-          "Item Level: 71",
-          "Dexterity Damage Bonus: (0.1 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 22 to 24"],
+        "requirement": ["Required Level: 45", "Required Dexterity: 52", "Item Level: 71", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
         "attribute": [
           "+(131 to 150) Energy Factor to Spell Damage",
           "+(7 to 8) to All Skills",
@@ -5334,15 +3698,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: 6 to 8"
-        ],
-        "requirement": [
-          "Required Level: 3",
-          "Required Dexterity: 8",
-          "Item Level: 4",
-          "Dexterity Damage Bonus: (0.1 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 6 to 8"],
+        "requirement": ["Required Level: 3", "Required Dexterity: 8", "Item Level: 4", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
         "attribute": [
           "+1 to All Skills",
           "+50% Damage to Undead",
@@ -5358,15 +3715,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: 13 to 16"
-        ],
-        "requirement": [
-          "Required Level: 21",
-          "Required Dexterity: 19",
-          "Item Level: 23",
-          "Dexterity Damage Bonus: (0.1 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 13 to 16"],
+        "requirement": ["Required Level: 21", "Required Dexterity: 19", "Item Level: 23", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
         "attribute": [
           "+(2 to 3) to All Skills",
           "+50% Damage to Undead",
@@ -5382,15 +3732,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: 22 to 26"
-        ],
-        "requirement": [
-          "Required Level: 40",
-          "Required Dexterity: 43",
-          "Item Level: 44",
-          "Dexterity Damage Bonus: (0.1 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 22 to 26"],
+        "requirement": ["Required Level: 40", "Required Dexterity: 43", "Item Level: 44", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
         "attribute": [
           "+(3 to 4) to All Skills",
           "+50% Damage to Undead",
@@ -5406,15 +3749,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: 27 to 32"
-        ],
-        "requirement": [
-          "Required Level: 49",
-          "Required Dexterity: 88",
-          "Item Level: 77",
-          "Dexterity Damage Bonus: (0.1 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 27 to 32"],
+        "requirement": ["Required Level: 49", "Required Dexterity: 88", "Item Level: 77", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
         "attribute": [
           "+(5 to 6) to All Skills",
           "+50% Damage to Undead",
@@ -5437,15 +3773,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: 8 to 10"
-        ],
-        "requirement": [
-          "Required Level: 4",
-          "Required Dexterity: 17",
-          "Item Level: 7",
-          "Dexterity Damage Bonus: (0.1 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 8 to 10"],
+        "requirement": ["Required Level: 4", "Required Dexterity: 17", "Item Level: 7", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
         "attribute": [
           "+(36 to 60) Energy Factor to Spell Damage",
           "+1 to All Skills",
@@ -5462,15 +3791,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: 16 to 20"
-        ],
-        "requirement": [
-          "Required Level: 23",
-          "Required Dexterity: 29",
-          "Item Level: 25",
-          "Dexterity Damage Bonus: (0.1 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 16 to 20"],
+        "requirement": ["Required Level: 23", "Required Dexterity: 29", "Item Level: 25", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
         "attribute": [
           "+(86 to 110) Energy Factor to Spell Damage",
           "+(2 to 3) to All Skills",
@@ -5487,15 +3809,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: 26 to 33"
-        ],
-        "requirement": [
-          "Required Level: 42",
-          "Required Dexterity: 62",
-          "Item Level: 46",
-          "Dexterity Damage Bonus: (0.1 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 26 to 33"],
+        "requirement": ["Required Level: 42", "Required Dexterity: 62", "Item Level: 46", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
         "attribute": [
           "+(136 to 160) Energy Factor to Spell Damage",
           "+(4 to 5) to All Skills",
@@ -5512,15 +3827,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: 32 to 39"
-        ],
-        "requirement": [
-          "Required Level: 50",
-          "Required Dexterity: 126",
-          "Item Level: 79",
-          "Dexterity Damage Bonus: (0.1 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 32 to 39"],
+        "requirement": ["Required Level: 50", "Required Dexterity: 126", "Item Level: 79", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
         "attribute": [
           "+(161 to 185) Energy Factor to Spell Damage",
           "+(5 to 6) to All Skills",
@@ -5544,15 +3852,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: 9 to 13"
-        ],
-        "requirement": [
-          "Required Level: 6",
-          "Required Dexterity: 25",
-          "Item Level: 10",
-          "Dexterity Damage Bonus: (0.1 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 9 to 13"],
+        "requirement": ["Required Level: 6", "Required Dexterity: 25", "Item Level: 10", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
         "attribute": [
           "+1 to Paladin Skill Levels",
           "15% Cast Speed",
@@ -5566,15 +3867,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: 19 to 25"
-        ],
-        "requirement": [
-          "Required Level: 25",
-          "Required Dexterity: 41",
-          "Item Level: 27",
-          "Dexterity Damage Bonus: (0.1 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 19 to 25"],
+        "requirement": ["Required Level: 25", "Required Dexterity: 41", "Item Level: 27", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
         "attribute": [
           "+(2 to 3) to Paladin Skill Levels",
           "25% Cast Speed",
@@ -5588,15 +3882,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: 31 to 39"
-        ],
-        "requirement": [
-          "Required Level: 43",
-          "Required Dexterity: 83",
-          "Item Level: 48",
-          "Dexterity Damage Bonus: (0.1 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 31 to 39"],
+        "requirement": ["Required Level: 43", "Required Dexterity: 83", "Item Level: 48", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
         "attribute": [
           "+(4 to 5) to Paladin Skill Levels",
           "35% Cast Speed",
@@ -5610,15 +3897,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: 36 to 46"
-        ],
-        "requirement": [
-          "Required Level: 52",
-          "Required Dexterity: 164",
-          "Item Level: 83",
-          "Dexterity Damage Bonus: (0.1 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 36 to 46"],
+        "requirement": ["Required Level: 52", "Required Dexterity: 164", "Item Level: 83", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
         "attribute": [
           "+(5 to 6) to Paladin Skill Levels",
           "40% Cast Speed",
@@ -5639,15 +3919,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: 11 to 15"
-        ],
-        "requirement": [
-          "Required Level: 10",
-          "Required Dexterity: 34",
-          "Item Level: 16",
-          "Dexterity Damage Bonus: (0.1 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 11 to 15"],
+        "requirement": ["Required Level: 10", "Required Dexterity: 34", "Item Level: 16", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
         "attribute": [
           "+1 to All Skills",
           "+(21 to 25)% Bonus to Energy Factor",
@@ -5663,15 +3936,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: 21 to 28"
-        ],
-        "requirement": [
-          "Required Level: 29",
-          "Required Dexterity: 51",
-          "Item Level: 32",
-          "Dexterity Damage Bonus: (0.1 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 21 to 28"],
+        "requirement": ["Required Level: 29", "Required Dexterity: 51", "Item Level: 32", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
         "attribute": [
           "+(2 to 3) to All Skills",
           "+(31 to 35)% Bonus to Energy Factor",
@@ -5687,15 +3953,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: 34 to 44"
-        ],
-        "requirement": [
-          "Required Level: 47",
-          "Required Dexterity: 102",
-          "Item Level: 52",
-          "Dexterity Damage Bonus: (0.1 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 34 to 44"],
+        "requirement": ["Required Level: 47", "Required Dexterity: 102", "Item Level: 52", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
         "attribute": [
           "+(4 to 5) to All Skills",
           "+(41 to 45)% Bonus to Energy Factor",
@@ -5711,15 +3970,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: 41 to 53"
-        ],
-        "requirement": [
-          "Required Level: 54",
-          "Required Dexterity: 202",
-          "Item Level: 86",
-          "Dexterity Damage Bonus: (0.1 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 41 to 53"],
+        "requirement": ["Required Level: 54", "Required Dexterity: 202", "Item Level: 86", "Dexterity Damage Bonus: (0.1 per Dexterity)%"],
         "attribute": [
           "+(5 to 6) to All Skills",
           "+(46 to 50)% Bonus to Energy Factor",
@@ -5742,15 +3994,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: 2 to 4"
-        ],
-        "requirement": [
-          "Required Level: 1",
-          "Required Dexterity: 15",
-          "Item Level: 1",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 2 to 4"],
+        "requirement": ["Required Level: 1", "Required Dexterity: 15", "Item Level: 1", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "5% Chance to cast level 1 Teleport on Striking",
           "50% Attack Speed",
@@ -5764,15 +4009,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: 9 to (11 - 12)"
-        ],
-        "requirement": [
-          "Required Level: 17",
-          "Required Dexterity: 36",
-          "Item Level: 19",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 9 to (11 - 12)"],
+        "requirement": ["Required Level: 17", "Required Dexterity: 36", "Item Level: 19", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "7% Chance to cast level 1 Teleport on Striking",
           "65% Attack Speed",
@@ -5786,15 +4024,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: (24 - 25) to (27 - 28)"
-        ],
-        "requirement": [
-          "Required Level: 36",
-          "Required Dexterity: 81",
-          "Item Level: 39",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (24 - 25) to (27 - 28)"],
+        "requirement": ["Required Level: 36", "Required Dexterity: 81", "Item Level: 39", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "9% Chance to cast level 1 Teleport on Striking",
           "80% Attack Speed",
@@ -5808,15 +4039,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: (34 - 36) to (37 - 39)"
-        ],
-        "requirement": [
-          "Required Level: 45",
-          "Required Dexterity: 167",
-          "Item Level: 71",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (34 - 36) to (37 - 39)"],
+        "requirement": ["Required Level: 45", "Required Dexterity: 167", "Item Level: 71", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "10% Chance to cast level 1 Teleport on Striking",
           "100% Attack Speed",
@@ -5837,15 +4061,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: (4 - 5) to (16 - 17)"
-        ],
-        "requirement": [
-          "Required Level: 1",
-          "Required Dexterity: 27",
-          "Item Level: 3",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (4 - 5) to (16 - 17)"],
+        "requirement": ["Required Level: 1", "Required Dexterity: 27", "Item Level: 3", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "100% Attack Speed",
           "+(31 to 50)% Enhanced Damage",
@@ -5859,15 +4076,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: (17 - 19) to (40 - 43)"
-        ],
-        "requirement": [
-          "Required Level: 20",
-          "Required Dexterity: 51",
-          "Item Level: 22",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (17 - 19) to (40 - 43)"],
+        "requirement": ["Required Level: 20", "Required Dexterity: 51", "Item Level: 22", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "100% Attack Speed",
           "+(61 to 80)% Enhanced Damage",
@@ -5881,15 +4091,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: (39 - 43) to (75 - 80)"
-        ],
-        "requirement": [
-          "Required Level: 39",
-          "Required Dexterity: 109",
-          "Item Level: 43",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (39 - 43) to (75 - 80)"],
+        "requirement": ["Required Level: 39", "Required Dexterity: 109", "Item Level: 43", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "100% Attack Speed",
           "+(91 to 110)% Enhanced Damage",
@@ -5903,15 +4106,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: (56 - 61) to (106 - 112)"
-        ],
-        "requirement": [
-          "Required Level: 48",
-          "Required Dexterity: 221",
-          "Item Level: 75",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (56 - 61) to (106 - 112)"],
+        "requirement": ["Required Level: 48", "Required Dexterity: 221", "Item Level: 75", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "100% Attack Speed",
           "+(121 to 140)% Enhanced Damage",
@@ -5932,15 +4128,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: (5 - 6) to (8 - 9)"
-        ],
-        "requirement": [
-          "Required Level: 3",
-          "Required Dexterity: 39",
-          "Item Level: 5",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (5 - 6) to (8 - 9)"],
+        "requirement": ["Required Level: 3", "Required Dexterity: 39", "Item Level: 5", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "+1 to All Skills",
           "40% Attack Speed",
@@ -5958,15 +4147,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: (18 - 19) to (25 - 27)"
-        ],
-        "requirement": [
-          "Required Level: 22",
-          "Required Dexterity: 67",
-          "Item Level: 25",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (18 - 19) to (25 - 27)"],
+        "requirement": ["Required Level: 22", "Required Dexterity: 67", "Item Level: 25", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "+2 to All Skills",
           "50% Attack Speed",
@@ -5984,15 +4166,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: (39 - 42) to (50 - 54)"
-        ],
-        "requirement": [
-          "Required Level: 40",
-          "Required Dexterity: 137",
-          "Item Level: 45",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (39 - 42) to (50 - 54)"],
+        "requirement": ["Required Level: 40", "Required Dexterity: 137", "Item Level: 45", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "+3 to All Skills",
           "60% Attack Speed",
@@ -6010,15 +4185,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: (52 - 55) to (66 - 70)"
-        ],
-        "requirement": [
-          "Required Level: 50",
-          "Required Dexterity: 274",
-          "Item Level: 78",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (52 - 55) to (66 - 70)"],
+        "requirement": ["Required Level: 50", "Required Dexterity: 274", "Item Level: 78", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "+4 to All Skills",
           "70% Attack Speed",
@@ -6043,15 +4211,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: (9 - 10) to (20 - 25)"
-        ],
-        "requirement": [
-          "Required Level: 4",
-          "Required Dexterity: 51",
-          "Item Level: 7",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (9 - 10) to (20 - 25)"],
+        "requirement": ["Required Level: 4", "Required Dexterity: 51", "Item Level: 7", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "-10% Attack Speed",
           "+(31 to 50)% Enhanced Damage",
@@ -6064,15 +4225,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: (25 - 30) to (48 - 63)"
-        ],
-        "requirement": [
-          "Required Level: 23",
-          "Required Dexterity: 81",
-          "Item Level: 25",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (25 - 30) to (48 - 63)"],
+        "requirement": ["Required Level: 23", "Required Dexterity: 81", "Item Level: 25", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "-20% Attack Speed",
           "+(61 to 90)% Enhanced Damage",
@@ -6085,15 +4239,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: (55 - 63) to (93 - 113)"
-        ],
-        "requirement": [
-          "Required Level: 41",
-          "Required Dexterity: 165",
-          "Item Level: 46",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (55 - 63) to (93 - 113)"],
+        "requirement": ["Required Level: 41", "Required Dexterity: 165", "Item Level: 46", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "-30% Attack Speed",
           "+(91 to 120)% Enhanced Damage",
@@ -6106,15 +4253,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: (77 - 87) to (132 - 155)"
-        ],
-        "requirement": [
-          "Required Level: 50",
-          "Required Dexterity: 328",
-          "Item Level: 79",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (77 - 87) to (132 - 155)"],
+        "requirement": ["Required Level: 50", "Required Dexterity: 328", "Item Level: 79", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "-40% Attack Speed",
           "+(121 to 150)% Enhanced Damage",
@@ -6134,11 +4274,7 @@
     "info": [
       {
         "tier": "Tier 1",
-        "requirement": [
-          "Required Level: 5",
-          "Required Dexterity: 63",
-          "Item Level: 8"
-        ],
+        "requirement": ["Required Level: 5", "Required Dexterity: 63", "Item Level: 8"],
         "attribute": [
           "10% Chance to cast level 10 Countdown on Kill",
           "15% Attack Speed",
@@ -6150,11 +4286,7 @@
       },
       {
         "tier": "Tier 2",
-        "requirement": [
-          "Required Level: 24",
-          "Required Dexterity: 97",
-          "Item Level: 27"
-        ],
+        "requirement": ["Required Level: 24", "Required Dexterity: 97", "Item Level: 27"],
         "attribute": [
           "12% Chance to cast level 20 Countdown on Kill",
           "25% Attack Speed",
@@ -6166,11 +4298,7 @@
       },
       {
         "tier": "Tier 3",
-        "requirement": [
-          "Required Level: 42",
-          "Required Dexterity: 193",
-          "Item Level: 46"
-        ],
+        "requirement": ["Required Level: 42", "Required Dexterity: 193", "Item Level: 46"],
         "attribute": [
           "14% Chance to cast level 30 Countdown on Kill",
           "35% Attack Speed",
@@ -6182,11 +4310,7 @@
       },
       {
         "tier": "Tier 4",
-        "requirement": [
-          "Required Level: 52",
-          "Required Dexterity: 382",
-          "Item Level: 82"
-        ],
+        "requirement": ["Required Level: 52", "Required Dexterity: 382", "Item Level: 82"],
         "attribute": [
           "16% Chance to cast level 40 Countdown on Kill",
           "40% Attack Speed",
@@ -6205,15 +4329,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: 10 to 15"
-        ],
-        "requirement": [
-          "Required Level: 6",
-          "Required Dexterity: 67",
-          "Item Level: 10",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 10 to 15"],
+        "requirement": ["Required Level: 6", "Required Dexterity: 67", "Item Level: 10", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "(41 to 50)% Cast Speed",
           "-(11 to 13)% to Enemy Poison Resistance",
@@ -6227,15 +4344,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: 22 to 32"
-        ],
-        "requirement": [
-          "Required Level: 25",
-          "Required Dexterity: 89",
-          "Item Level: 27",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 22 to 32"],
+        "requirement": ["Required Level: 25", "Required Dexterity: 89", "Item Level: 27", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "(51 to 57)% Cast Speed",
           "-(16 to 18)% to Enemy Poison Resistance",
@@ -6249,15 +4359,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: 38 to 51"
-        ],
-        "requirement": [
-          "Required Level: 43",
-          "Required Dexterity: 154",
-          "Item Level: 48",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 38 to 51"],
+        "requirement": ["Required Level: 43", "Required Dexterity: 154", "Item Level: 48", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "(58 to 65)% Cast Speed",
           "-(21 to 23)% to Enemy Poison Resistance",
@@ -6271,15 +4374,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: 45 to 61"
-        ],
-        "requirement": [
-          "Required Level: 52",
-          "Required Dexterity: 261",
-          "Item Level: 83",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: 45 to 61"],
+        "requirement": ["Required Level: 52", "Required Dexterity: 261", "Item Level: 83", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "(66 to 75)% Cast Speed",
           "-(23 to 25)% to Enemy Poison Resistance",
@@ -6300,15 +4396,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: (14 - 16) to (32 - 39)"
-        ],
-        "requirement": [
-          "Required Level: 8",
-          "Required Dexterity: 73 to 77",
-          "Item Level: 12",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (14 - 16) to (32 - 39)"],
+        "requirement": ["Required Level: 8", "Required Dexterity: 73 to 77", "Item Level: 12", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "5% Chance to cast level 5 Arachnomancy on Kill",
           "3% Chance to cast level 4 Miasma on Striking",
@@ -6324,15 +4413,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: (38 - 42) to (70 - 85)"
-        ],
-        "requirement": [
-          "Required Level: 28",
-          "Required Dexterity: 95 to 100",
-          "Item Level: 31",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (38 - 42) to (70 - 85)"],
+        "requirement": ["Required Level: 28", "Required Dexterity: 95 to 100", "Item Level: 31", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "6% Chance to cast level 10 Arachnomancy on Kill",
           "4% Chance to cast level 10 Miasma on Striking",
@@ -6348,15 +4430,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: (76 - 83) to (135 - 153)"
-        ],
-        "requirement": [
-          "Required Level: 47",
-          "Required Dexterity: 161 to 171",
-          "Item Level: 52",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (76 - 83) to (135 - 153)"],
+        "requirement": ["Required Level: 47", "Required Dexterity: 161 to 171", "Item Level: 52", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "7% Chance to cast level 14 Arachnomancy on Kill",
           "5% Chance to cast level 16 Miasma on Striking",
@@ -6372,15 +4447,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: (102 - 110) to (179 - 199)"
-        ],
-        "requirement": [
-          "Required Level: 54",
-          "Required Dexterity: 294 to 313",
-          "Item Level: 85",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (102 - 110) to (179 - 199)"],
+        "requirement": ["Required Level: 54", "Required Dexterity: 294 to 313", "Item Level: 85", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "8% Chance to cast level 18 Arachnomancy on Kill",
           "6% Chance to cast level 19 Miasma on Striking",
@@ -6403,15 +4471,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: (17 - 20) to (28 - 41)"
-        ],
-        "requirement": [
-          "Required Level: 11",
-          "Required Dexterity: 108",
-          "Item Level: 18",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (17 - 20) to (28 - 41)"],
+        "requirement": ["Required Level: 11", "Required Dexterity: 108", "Item Level: 18", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "1% Chance to cast level 1 Barrage on Kill",
           "30% Attack Speed",
@@ -6428,15 +4489,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: (48 - 54) to (81 - 109)"
-        ],
-        "requirement": [
-          "Required Level: 30",
-          "Required Dexterity: 200",
-          "Item Level: 33",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (48 - 54) to (81 - 109)"],
+        "requirement": ["Required Level: 30", "Required Dexterity: 200", "Item Level: 33", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "1% Chance to cast level 5 Barrage on Kill",
           "45% Attack Speed",
@@ -6453,15 +4507,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: (101 - 112) to (171 - 204)"
-        ],
-        "requirement": [
-          "Required Level: 48",
-          "Required Dexterity: 498",
-          "Item Level: 53",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (101 - 112) to (171 - 204)"],
+        "requirement": ["Required Level: 48", "Required Dexterity: 498", "Item Level: 53", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "1% Chance to cast level 10 Barrage on Kill",
           "60% Attack Speed",
@@ -6478,15 +4525,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: (134 - 146) to (254 - 300)"
-        ],
-        "requirement": [
-          "Required Level: 57",
-          "Required Dexterity: 1357",
-          "Item Level: 90",
-          "Dexterity Damage Bonus: (0.17 per Dexterity)%"
-        ],
+        "damage": ["Two-Hand Damage: (134 - 146) to (254 - 300)"],
+        "requirement": ["Required Level: 57", "Required Dexterity: 1357", "Item Level: 90", "Dexterity Damage Bonus: (0.17 per Dexterity)%"],
         "attribute": [
           "1% Chance to cast level 16 Barrage on Kill",
           "75% Attack Speed",
@@ -6510,15 +4550,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: 7 to 10"
-        ],
-        "requirement": [
-          "Required Level: 3",
-          "Required Strength: 14",
-          "Item Level: 5",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: 7 to 10"],
+        "requirement": ["Required Level: 3", "Required Strength: 14", "Item Level: 5", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "(31 to 35)% Cast Speed",
           "+(7 to 10) to Cluster Bomb",
@@ -6532,15 +4565,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: 19 to 26"
-        ],
-        "requirement": [
-          "Required Level: 22",
-          "Required Strength: 69",
-          "Item Level: 25",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: 19 to 26"],
+        "requirement": ["Required Level: 22", "Required Strength: 69", "Item Level: 25", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "(36 to 40)% Cast Speed",
           "+(12 to 15) to Cluster Bomb",
@@ -6554,15 +4580,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: 36 to 46"
-        ],
-        "requirement": [
-          "Required Level: 40",
-          "Required Strength: 144",
-          "Item Level: 45",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: 36 to 46"],
+        "requirement": ["Required Level: 40", "Required Strength: 144", "Item Level: 45", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "(41 to 45)% Cast Speed",
           "+(17 to 20) to Cluster Bomb",
@@ -6576,15 +4595,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: 44 to 56"
-        ],
-        "requirement": [
-          "Required Level: 50",
-          "Required Strength: 287",
-          "Item Level: 78",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: 44 to 56"],
+        "requirement": ["Required Level: 50", "Required Strength: 287", "Item Level: 78", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "(46 to 50)% Cast Speed",
           "+(26 to 30) to Cluster Bomb",
@@ -6605,15 +4617,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: (12 - 14) to (24 - 31)"
-        ],
-        "requirement": [
-          "Required Level: 5",
-          "Required Strength: 66",
-          "Item Level: 8",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (12 - 14) to (24 - 31)"],
+        "requirement": ["Required Level: 5", "Required Strength: 66", "Item Level: 8", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "+(1 to 2) to Amazon Skill Levels",
           "+10% Bonus Damage to Bloodlust",
@@ -6627,15 +4632,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: (39 - 43) to (69 - 79)"
-        ],
-        "requirement": [
-          "Required Level: 24",
-          "Required Strength: 101",
-          "Item Level: 27",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (39 - 43) to (69 - 79)"],
+        "requirement": ["Required Level: 24", "Required Strength: 101", "Item Level: 27", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "+(2 to 3) to Amazon Skill Levels",
           "+20% Bonus Damage to Bloodlust",
@@ -6649,15 +4647,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: (82 - 89) to (136 - 149)"
-        ],
-        "requirement": [
-          "Required Level: 42",
-          "Required Strength: 202",
-          "Item Level: 46",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (82 - 89) to (136 - 149)"],
+        "requirement": ["Required Level: 42", "Required Strength: 202", "Item Level: 46", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "+(3 to 4) to Amazon Skill Levels",
           "+30% Bonus Damage to Bloodlust",
@@ -6671,15 +4662,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: (106 - 114) to (178 - 194)"
-        ],
-        "requirement": [
-          "Required Level: 52",
-          "Required Strength: 401",
-          "Item Level: 82",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (106 - 114) to (178 - 194)"],
+        "requirement": ["Required Level: 52", "Required Strength: 401", "Item Level: 82", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "+(5 to 6) to Amazon Skill Levels",
           "+40% Bonus Damage to Bloodlust",
@@ -6700,15 +4684,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: (22 - 25) to (40 - 50)"
-        ],
-        "requirement": [
-          "Required Level: 8",
-          "Required Strength: 91",
-          "Item Level: 12",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (22 - 25) to (40 - 50)"],
+        "requirement": ["Required Level: 8", "Required Strength: 91", "Item Level: 12", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "15% Attack Speed",
           "+(24 to 43)% Enhanced Damage",
@@ -6723,15 +4700,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: (63 - 71) to (104 - 119)"
-        ],
-        "requirement": [
-          "Required Level: 28",
-          "Required Strength: 134",
-          "Item Level: 31",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (63 - 71) to (104 - 119)"],
+        "requirement": ["Required Level: 28", "Required Strength: 134", "Item Level: 31", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "25% Attack Speed",
           "+(64 to 83)% Enhanced Damage",
@@ -6746,15 +4716,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: (130 - 142) to (197 - 218)"
-        ],
-        "requirement": [
-          "Required Level: 47",
-          "Required Strength: 260",
-          "Item Level: 52",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (130 - 142) to (197 - 218)"],
+        "requirement": ["Required Level: 47", "Required Strength: 260", "Item Level: 52", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "35% Attack Speed",
           "+(104 to 123)% Enhanced Damage",
@@ -6769,15 +4732,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: (174 - 189) to (259 - 283)"
-        ],
-        "requirement": [
-          "Required Level: 54",
-          "Required Strength: 514",
-          "Item Level: 85",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (174 - 189) to (259 - 283)"],
+        "requirement": ["Required Level: 54", "Required Strength: 514", "Item Level: 85", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "50% Attack Speed",
           "+(124 to 143)% Enhanced Damage",
@@ -6799,15 +4755,8 @@
     "info": [
       {
         "tier": "Tier 1",
-        "damage": [
-          "Two-Hand Damage: (22 - 24) to (36 - 40)"
-        ],
-        "requirement": [
-          "Required Level: 11",
-          "Required Strength: 103",
-          "Item Level: 18",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (22 - 24) to (36 - 40)"],
+        "requirement": ["Required Level: 11", "Required Strength: 103", "Item Level: 18", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "14% Chance to cast level 8 Flamefront on Kill",
           "+(30 to 46)% Enhanced Damage",
@@ -6821,15 +4770,8 @@
       },
       {
         "tier": "Tier 2",
-        "damage": [
-          "Two-Hand Damage: (60 - 66) to (90 - 99)"
-        ],
-        "requirement": [
-          "Required Level: 30",
-          "Required Strength: 150",
-          "Item Level: 33",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (60 - 66) to (90 - 99)"],
+        "requirement": ["Required Level: 30", "Required Strength: 150", "Item Level: 33", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "16% Chance to cast level 20 Flamefront on Kill",
           "+(64 to 80)% Enhanced Damage",
@@ -6843,15 +4785,8 @@
       },
       {
         "tier": "Tier 3",
-        "damage": [
-          "Two-Hand Damage: (120 - 130) to (172 - 186)"
-        ],
-        "requirement": [
-          "Required Level: 48",
-          "Required Strength: 290",
-          "Item Level: 53",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (120 - 130) to (172 - 186)"],
+        "requirement": ["Required Level: 48", "Required Strength: 290", "Item Level: 53", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "18% Chance to cast level 32 Flamefront on Kill",
           "+(98 to 114)% Enhanced Damage",
@@ -6865,15 +4800,8 @@
       },
       {
         "tier": "Tier 4",
-        "damage": [
-          "Two-Hand Damage: (159 - 171) to (219 - 236)"
-        ],
-        "requirement": [
-          "Required Level: 57",
-          "Required Strength: 570",
-          "Item Level: 90",
-          "Strength Damage Bonus: (0.18 per Strength)%"
-        ],
+        "damage": ["Two-Hand Damage: (159 - 171) to (219 - 236)"],
+        "requirement": ["Required Level: 57", "Required Strength: 570", "Item Level: 90", "Strength Damage Bonus: (0.18 per Strength)%"],
         "attribute": [
           "20% Chance to cast level 42 Flamefront on Kill",
           "+(115 to 132)% Enhanced Damage",

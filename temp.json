@@ -1,93 +1,97 @@
 {
-  "id": 71,
-  "name": "Embershot (Repeating Crossbow)",
-  "img": "https://docs.median-xl.com/images/baseitems/invrxb.jpg",
+  "id": 73,
+  "name": "Herald of Skartara (Reflex Bow)",
+  "img": "https://docs.median-xl.com/images/baseitems/invam2.jpg",
   "info": [
     {
       "tier": "Tier 1",
+      "char": "Amazon Only",
       "damage": [
-        "Two-Hand Damage: (22 - 24) to (36 - 40)"
+        "Two-Hand Damage: (25 - 32) to (43 - 56)"
       ],
       "requirement": [
         "Required Level: 11",
-        "Required Strength: 103",
+        "Required Dexterity: 103",
         "Item Level: 18",
-        "Strength Damage Bonus: (0.18 per Strength)%"
+        "Dexterity Damage Bonus: (0.25 per Dexterity)%"
       ],
       "attribute": [
-        "14% Chance to cast level 8 Flamefront on Kill",
-        "+(30 to 46)% Enhanced Damage",
-        "Adds (11 to 15)-(21 to 25) fire damage",
-        "-(6 to 8)% to Enemy Fire Resistance",
-        "+20 to Strength",
-        "+20 to Vitality",
-        "Fire Absorb 2%",
+        "1% Chance to cast level 3 Phalanx on Kill",
+        "1% Chance to cast level 6 Celerity on Kill",
+        "15% Attack Speed",
+        "+(35 to 57)% Enhanced Damage",
+        "Adds (11 to 15)-(21 to 30) damage",
+        "(11 to 15)% Chance of Uninterruptable Attack",
+        "10% Magic Find",
         "Socketed (2)"
       ]
     },
     {
       "tier": "Tier 2",
+      "char": "Amazon Only",
       "damage": [
-        "Two-Hand Damage: (60 - 66) to (90 - 99)"
+        "Two-Hand Damage: (68 - 83) to (102 - 119)"
       ],
       "requirement": [
         "Required Level: 30",
-        "Required Strength: 150",
+        "Required Dexterity: 150",
         "Item Level: 33",
-        "Strength Damage Bonus: (0.18 per Strength)%"
+        "Dexterity Damage Bonus: (0.25 per Dexterity)%"
       ],
       "attribute": [
-        "16% Chance to cast level 20 Flamefront on Kill",
-        "+(64 to 80)% Enhanced Damage",
-        "Adds (33 to 50)-(71 to 80) fire damage",
-        "-(11 to 13)% to Enemy Fire Resistance",
-        "+40 to Strength",
-        "+40 to Vitality",
-        "Fire Absorb 3%",
+        "2% Chance to cast level 7 Phalanx on Kill",
+        "2% Chance to cast level 10 Celerity on Kill",
+        "25% Attack Speed",
+        "+(81 to 103)% Enhanced Damage",
+        "Adds (25 to 35)-(41 to 50) damage",
+        "(21 to 25)% Chance of Uninterruptable Attack",
+        "20% Magic Find",
         "Socketed (4)"
       ]
     },
     {
       "tier": "Tier 3",
+      "char": "Amazon Only",
       "damage": [
-        "Two-Hand Damage: (120 - 130) to (172 - 186)"
+        "Two-Hand Damage: (124 - 142) to (173 - 204)"
       ],
       "requirement": [
         "Required Level: 48",
-        "Required Strength: 290",
+        "Required Dexterity: 290",
         "Item Level: 53",
-        "Strength Damage Bonus: (0.18 per Strength)%"
+        "Dexterity Damage Bonus: (0.25 per Dexterity)%"
       ],
       "attribute": [
-        "18% Chance to cast level 32 Flamefront on Kill",
-        "+(98 to 114)% Enhanced Damage",
-        "Adds (101 to 140)-(211 to 250) fire damage",
-        "-(16 to 18)% to Enemy Fire Resistance",
-        "+60 to Strength",
-        "+60 to Vitality",
-        "Fire Absorb 4%",
+        "3% Chance to cast level 11 Phalanx on Kill",
+        "3% Chance to cast level 14 Celerity on Kill",
+        "35% Attack Speed",
+        "+(126 to 149)% Enhanced Damage",
+        "Adds (36 to 45)-(51 to 70) damage",
+        "(31 to 35)% Chance of Uninterruptable Attack",
+        "30% Magic Find",
         "Socketed (5)"
       ]
     },
     {
       "tier": "Tier 4",
+      "char": "Amazon Only",
       "damage": [
-        "Two-Hand Damage: (159 - 171) to (219 - 236)"
+        "Two-Hand Damage: (168 - 187) to (230 - 263)"
       ],
       "requirement": [
         "Required Level: 57",
-        "Required Strength: 570",
+        "Required Dexterity: 570",
         "Item Level: 90",
-        "Strength Damage Bonus: (0.18 per Strength)%"
+        "Dexterity Damage Bonus: (0.25 per Dexterity)%"
       ],
       "attribute": [
-        "20% Chance to cast level 42 Flamefront on Kill",
-        "+(115 to 132)% Enhanced Damage",
-        "Adds (301 to 400)-(651 to 750) fire damage",
-        "-(21 to 25)% to Enemy Fire Resistance",
-        "+80 to Strength",
-        "+80 to Vitality",
-        "Fire Absorb 5%",
+        "4% Chance to cast level 13 Phalanx on Kill",
+        "4% Chance to cast level 20 Celerity on Kill",
+        "40% Attack Speed",
+        "+(149 to 171)% Enhanced Damage",
+        "Adds (51 to 60)-(71 to 90) damage",
+        "(36 to 40)% Chance of Uninterruptable Attack",
+        "40% Magic Find",
         "Socketed (6)"
       ]
     }

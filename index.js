@@ -1,5 +1,5 @@
-const count = 71;
-const txt = 0;
+const count = 72;
+const txt = 1;
 const axios = require("axios");
 const cheerio = require("cheerio");
 const fs = require("fs");
@@ -195,6 +195,8 @@ function other($, item) {
   // const damage2 = $("span", item).eq(2).html().trim() + " " + $("span", item).eq(3).html().trim().replace("<br>", "");
   // const damage = [damage1, damage2];
 
+  const char = $("span", item).eq(2).html().trim().replace("(", "").replace(")", "").replace("<br>", "");
+
   // const r1 = $("span", item).eq(0).html().trim().split("<br>")[1].trim();
   // const r2 = $("span", item).eq(0).html().trim().split("<br>")[2].trim();
   // const r3 = $("span", item).eq(0).html().trim().split("<br>")[3].trim();
@@ -203,7 +205,7 @@ function other($, item) {
   // const requirement = [r1, r2, r3, r4];
 
   let requirement = $("span", item)
-    .eq(2)
+    .eq(3)
     .html()
     .trim()
     .split("<br>")
@@ -213,13 +215,15 @@ function other($, item) {
   // requirement.shift();
 
   let attribute = $("span", item)
-    .eq(3)
+    .eq(4)
     .html()
     .trim()
     .split("<br>")
     .map((self) => self.trim());
   attribute.pop();
   // const data = { tier, requirement, attribute };
-  const data = { tier, damage, requirement, attribute };
+  // const data = { tier, damage, requirement, attribute };
+  // const data = { tier, char, requirement, attribute };
+  const data = { tier, char, damage, requirement, attribute };
   return data;
 }

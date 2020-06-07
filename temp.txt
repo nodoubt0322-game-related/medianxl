@@ -1,38 +1,35 @@
 
 		<tbody><tr>
 			<th colspan="3" class="item-unique">
-				The Barracuda (Crossbow)
+				Flowerspring (Stag Bow)
 			</th>
 		</tr>
 		<tr>
 			<td rowspan="2">
-				<img src="https://docs.median-xl.com/images/baseitems/invmxb.jpg">
+				<img src="https://docs.median-xl.com/images/baseitems/invam1.jpg">
 			</td>
 			<td>
 				<span class="item-basic">
 					<b>
 						Tier 1
 					</b><br>
-					<span class="item-basic">
-						Two-Hand Damage:  
-					</span>
-					<span class="item-magic">
-						(12 - 14) to (24 - 31)<br>
+					<span class="item-red">
+						(Amazon Only)<br>
 					</span>
 					<span class="item-basic">
-						Required Level: 5<br>
-						Required Strength: 66<br>
-						Item Level: 8<br>
-						Strength Damage Bonus: (0.18 per Strength)%<br>
+						Required Level: 6<br>
+						Required Dexterity: 78<br>
+						Item Level: 10<br>
 					</span>
 					<span class="item-magic">
-						+(1 to 2) to Amazon Skill Levels<br>
-						+10% Bonus Damage to Bloodlust<br>
-						5% Attack Speed<br>
-						+(18 to 35)% Enhanced Damage<br>
-						+(6 to 10) to Maximum Damage<br>
-						25% Bonus to Attack Rating<br>
-						(1 to 2)% Chance of Crushing Blow<br>
+						2% Chance to cast level 6 Lifeblood on Kill<br>
+						5% Chance to cast level 12 Death Blossom on Kill<br>
+						Adds 8-14 fire damage<br>
+						Adds 6-8 lightning damage<br>
+						Adds 6-8 cold damage<br>
+						(7 to 10)% to Dexterity<br>
+						+6 Life Regenerated per Second<br>
+						Elemental Resists +(11 to 15)%<br>
 						Socketed (2)<br>
 					</span>
 				</span>
@@ -42,26 +39,23 @@
 					<b>
 						Tier 2
 					</b><br>
-					<span class="item-basic">
-						Two-Hand Damage:  
-					</span>
-					<span class="item-magic">
-						(39 - 43) to (69 - 79)<br>
+					<span class="item-red">
+						(Amazon Only)<br>
 					</span>
 					<span class="item-basic">
-						Required Level: 24<br>
-						Required Strength: 101<br>
+						Required Level: 25<br>
+						Required Dexterity: 118<br>
 						Item Level: 27<br>
-						Strength Damage Bonus: (0.18 per Strength)%<br>
 					</span>
 					<span class="item-magic">
-						+(2 to 3) to Amazon Skill Levels<br>
-						+20% Bonus Damage to Bloodlust<br>
-						15% Attack Speed<br>
-						+(52 to 69)% Enhanced Damage<br>
-						+(16 to 20) to Maximum Damage<br>
-						50% Bonus to Attack Rating<br>
-						(3 to 4)% Chance of Crushing Blow<br>
+						3% Chance to cast level 12 Lifeblood on Kill<br>
+						10% Chance to cast level 20 Death Blossom on Kill<br>
+						Adds 20-36 fire damage<br>
+						Adds 12-16 lightning damage<br>
+						Adds 12-16 cold damage<br>
+						(15 to 18)% to Dexterity<br>
+						+9 Life Regenerated per Second<br>
+						Elemental Resists +(21 to 25)%<br>
 						Socketed (4)<br>
 					</span>
 				</span>
@@ -73,26 +67,23 @@
 					<b>
 						Tier 3
 					</b><br>
-					<span class="item-basic">
-						Two-Hand Damage:  
-					</span>
-					<span class="item-magic">
-						(82 - 89) to (136 - 149)<br>
+					<span class="item-red">
+						(Amazon Only)<br>
 					</span>
 					<span class="item-basic">
-						Required Level: 42<br>
-						Required Strength: 202<br>
-						Item Level: 46<br>
-						Strength Damage Bonus: (0.18 per Strength)%<br>
+						Required Level: 43<br>
+						Required Dexterity: 231<br>
+						Item Level: 48<br>
 					</span>
 					<span class="item-magic">
-						+(3 to 4) to Amazon Skill Levels<br>
-						+30% Bonus Damage to Bloodlust<br>
-						25% Attack Speed<br>
-						+(87 to 103)% Enhanced Damage<br>
-						+(26 to 30) to Maximum Damage<br>
-						75% Bonus to Attack Rating<br>
-						(5 to 6)% Chance of Crushing Blow<br>
+						4% Chance to cast level 18 Lifeblood on Kill<br>
+						15% Chance to cast level 35 Death Blossom on Kill<br>
+						Adds 66-98 fire damage<br>
+						Adds 36-48 lightning damage<br>
+						Adds 36-48 cold damage<br>
+						(23 to 26)% to Dexterity<br>
+						+12 Life Regenerated per Second<br>
+						Elemental Resists +(31 to 35)%<br>
 						Socketed (5)<br>
 					</span>
 				</span>
@@ -102,26 +93,23 @@
 					<b>
 						Tier 4
 					</b><br>
-					<span class="item-basic">
-						Two-Hand Damage:  
-					</span>
-					<span class="item-magic">
-						(106 - 114) to (178 - 194)<br>
+					<span class="item-red">
+						(Amazon Only)<br>
 					</span>
 					<span class="item-basic">
 						Required Level: 52<br>
-						Required Strength: 401<br>
-						Item Level: 82<br>
-						Strength Damage Bonus: (0.18 per Strength)%<br>
+						Required Dexterity: 457<br>
+						Item Level: 83<br>
 					</span>
 					<span class="item-magic">
-						+(5 to 6) to Amazon Skill Levels<br>
-						+40% Bonus Damage to Bloodlust<br>
-						30% Attack Speed<br>
-						+(104 to 120)% Enhanced Damage<br>
-						+(36 to 40) to Maximum Damage<br>
-						100% Bonus to Attack Rating<br>
-						(7 to 8)% Chance of Crushing Blow<br>
+						4% Chance to cast level 21 Lifeblood on Kill<br>
+						20% Chance to cast level 50 Death Blossom on Kill<br>
+						Adds 204-292 fire damage<br>
+						Adds 144-192 lightning damage<br>
+						Adds 144-192 cold damage<br>
+						(27 to 30)% to Dexterity<br>
+						+15 Life Regenerated per Second<br>
+						Elemental Resists +(36 to 40)%<br>
 						Socketed (6)<br>
 					</span>
 				</span>
