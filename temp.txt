@@ -1,36 +1,41 @@
 
 		<tbody><tr>
 			<th colspan="3" class="item-unique">
-				Flowerspring (Stag Bow)
+				Hellfeast (Cestus)
 			</th>
 		</tr>
 		<tr>
 			<td rowspan="2">
-				<img src="https://docs.median-xl.com/images/baseitems/invam1.jpg">
+				<img src="https://docs.median-xl.com/images/baseitems/invaxf.jpg">
 			</td>
 			<td>
 				<span class="item-basic">
 					<b>
 						Tier 1
 					</b><br>
+					<span class="item-basic">
+						One-Hand Damage:  
+					</span>
+					<span class="item-magic">
+						(11 - 12) to (15 - 17)<br>
+					</span>
 					<span class="item-red">
-						(Amazon Only)<br>
+						(Assassin Only)<br>
 					</span>
 					<span class="item-basic">
 						Required Level: 6<br>
-						Required Dexterity: 78<br>
-						Item Level: 10<br>
+						Required Dexterity: 39<br>
+						Item Level: 8<br>
+						Dexterity Damage Bonus: (0.21 per Dexterity)%<br>
 					</span>
 					<span class="item-magic">
-						2% Chance to cast level 6 Lifeblood on Kill<br>
-						5% Chance to cast level 12 Death Blossom on Kill<br>
-						Adds 8-14 fire damage<br>
-						Adds 6-8 lightning damage<br>
-						Adds 6-8 cold damage<br>
-						(7 to 10)% to Dexterity<br>
-						+6 Life Regenerated per Second<br>
-						Elemental Resists +(11 to 15)%<br>
-						Socketed (2)<br>
+						+(24 to 40)% Enhanced Damage<br>
+						Adds 3-6 damage<br>
+						(4 to 5)% Life stolen per Hit<br>
+						+(2 to 3) to Batstrike (Assassin Only)<br>
+						+25% to Summoned Minion Life<br>
+						+33% to Summoned Minion Damage<br>
+						Socketed (1)<br>
 					</span>
 				</span>
 			</td>
@@ -39,24 +44,29 @@
 					<b>
 						Tier 2
 					</b><br>
-					<span class="item-red">
-						(Amazon Only)<br>
-					</span>
 					<span class="item-basic">
-						Required Level: 25<br>
-						Required Dexterity: 118<br>
-						Item Level: 27<br>
+						One-Hand Damage:  
 					</span>
 					<span class="item-magic">
-						3% Chance to cast level 12 Lifeblood on Kill<br>
-						10% Chance to cast level 20 Death Blossom on Kill<br>
-						Adds 20-36 fire damage<br>
-						Adds 12-16 lightning damage<br>
-						Adds 12-16 cold damage<br>
-						(15 to 18)% to Dexterity<br>
-						+9 Life Regenerated per Second<br>
-						Elemental Resists +(21 to 25)%<br>
-						Socketed (4)<br>
+						(26 - 28) to (35 - 38)<br>
+					</span>
+					<span class="item-red">
+						(Assassin Only)<br>
+					</span>
+					<span class="item-basic">
+						Required Level: 24<br>
+						Required Dexterity: 63<br>
+						Item Level: 27<br>
+						Dexterity Damage Bonus: (0.21 per Dexterity)%<br>
+					</span>
+					<span class="item-magic">
+						+(58 to 75)% Enhanced Damage<br>
+						Adds 6-12 damage<br>
+						(6 to 8)% Life stolen per Hit<br>
+						+(5 to 8) to Batstrike (Assassin Only)<br>
+						+50% to Summoned Minion Life<br>
+						+66% to Summoned Minion Damage<br>
+						Socketed (2)<br>
 					</span>
 				</span>
 			</td>
@@ -67,24 +77,29 @@
 					<b>
 						Tier 3
 					</b><br>
-					<span class="item-red">
-						(Amazon Only)<br>
-					</span>
 					<span class="item-basic">
-						Required Level: 43<br>
-						Required Dexterity: 231<br>
-						Item Level: 48<br>
+						One-Hand Damage:  
 					</span>
 					<span class="item-magic">
-						4% Chance to cast level 18 Lifeblood on Kill<br>
-						15% Chance to cast level 35 Death Blossom on Kill<br>
-						Adds 66-98 fire damage<br>
-						Adds 36-48 lightning damage<br>
-						Adds 36-48 cold damage<br>
-						(23 to 26)% to Dexterity<br>
-						+12 Life Regenerated per Second<br>
-						Elemental Resists +(31 to 35)%<br>
-						Socketed (5)<br>
+						(50 - 53) to (68 - 72)<br>
+					</span>
+					<span class="item-red">
+						(Assassin Only)<br>
+					</span>
+					<span class="item-basic">
+						Required Level: 42<br>
+						Required Dexterity: 128<br>
+						Item Level: 47<br>
+						Dexterity Damage Bonus: (0.21 per Dexterity)%<br>
+					</span>
+					<span class="item-magic">
+						+(92 to 109)% Enhanced Damage<br>
+						Adds 12-24 damage<br>
+						(9 to 12)% Life stolen per Hit<br>
+						+(9 to 11) to Batstrike (Assassin Only)<br>
+						+75% to Summoned Minion Life<br>
+						+99% to Summoned Minion Damage<br>
+						Socketed (2)<br>
 					</span>
 				</span>
 			</td>
@@ -93,24 +108,29 @@
 					<b>
 						Tier 4
 					</b><br>
+					<span class="item-basic">
+						One-Hand Damage:  
+					</span>
+					<span class="item-magic">
+						(72 - 75) to (92 - 97)<br>
+					</span>
 					<span class="item-red">
-						(Amazon Only)<br>
+						(Assassin Only)<br>
 					</span>
 					<span class="item-basic">
 						Required Level: 52<br>
-						Required Dexterity: 457<br>
-						Item Level: 83<br>
+						Required Dexterity: 255<br>
+						Item Level: 82<br>
+						Dexterity Damage Bonus: (0.21 per Dexterity)%<br>
 					</span>
 					<span class="item-magic">
-						4% Chance to cast level 21 Lifeblood on Kill<br>
-						20% Chance to cast level 50 Death Blossom on Kill<br>
-						Adds 204-292 fire damage<br>
-						Adds 144-192 lightning damage<br>
-						Adds 144-192 cold damage<br>
-						(27 to 30)% to Dexterity<br>
-						+15 Life Regenerated per Second<br>
-						Elemental Resists +(36 to 40)%<br>
-						Socketed (6)<br>
+						+(109 to 126)% Enhanced Damage<br>
+						Adds 24-36 damage<br>
+						(13 to 15)% Life stolen per Hit<br>
+						+(13 to 15) to Batstrike (Assassin Only)<br>
+						+100% to Summoned Minion Life<br>
+						+130% to Summoned Minion Damage<br>
+						Socketed (3)<br>
 					</span>
 				</span>
 			</td>

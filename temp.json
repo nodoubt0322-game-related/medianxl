@@ -1,98 +1,90 @@
 {
-  "id": 73,
-  "name": "Herald of Skartara (Reflex Bow)",
-  "img": "https://docs.median-xl.com/images/baseitems/invam2.jpg",
+  "id": 77,
+  "name": "The Nutcracker (Katar)",
+  "img": "https://docs.median-xl.com/images/baseitems/invktr.jpg",
   "info": [
     {
       "tier": "Tier 1",
-      "char": "Amazon Only",
       "damage": [
-        "Two-Hand Damage: (25 - 32) to (43 - 56)"
+        "One-Hand Damage: 4 to 6"
       ],
       "requirement": [
-        "Required Level: 11",
-        "Required Dexterity: 103",
-        "Item Level: 18",
-        "Dexterity Damage Bonus: (0.25 per Dexterity)%"
+        "Assassin Only",
+        "Required Level: 1",
+        "Item Level: 1",
+        "Dexterity Damage Bonus: (0.21 per Dexterity)%"
       ],
       "attribute": [
-        "1% Chance to cast level 3 Phalanx on Kill",
-        "1% Chance to cast level 6 Celerity on Kill",
-        "15% Attack Speed",
-        "+(35 to 57)% Enhanced Damage",
-        "Adds (11 to 15)-(21 to 30) damage",
-        "(11 to 15)% Chance of Uninterruptable Attack",
-        "10% Magic Find",
-        "Socketed (2)"
+        "20% Cast Speed",
+        "+(4 to 9)% to Fire Spell Damage",
+        "-(5 to 8)% to Enemy Fire Resistance",
+        "+(2 to 5) to Meteor Shower",
+        "Physical Resist 1%",
+        "(0 to 1)% Reanimate as: Accursed Demihuman",
+        "Socketed (1)"
       ]
     },
     {
       "tier": "Tier 2",
-      "char": "Amazon Only",
       "damage": [
-        "Two-Hand Damage: (68 - 83) to (102 - 119)"
+        "One-Hand Damage: 8 to 9"
       ],
       "requirement": [
-        "Required Level: 30",
-        "Required Dexterity: 150",
-        "Item Level: 33",
-        "Dexterity Damage Bonus: (0.25 per Dexterity)%"
+        "Assassin Only",
+        "Required Level: 19",
+        "Required Dexterity: 14",
+        "Item Level: 21"
       ],
       "attribute": [
-        "2% Chance to cast level 7 Phalanx on Kill",
-        "2% Chance to cast level 10 Celerity on Kill",
-        "25% Attack Speed",
-        "+(81 to 103)% Enhanced Damage",
-        "Adds (25 to 35)-(41 to 50) damage",
-        "(21 to 25)% Chance of Uninterruptable Attack",
-        "20% Magic Find",
-        "Socketed (4)"
+        "30% Cast Speed",
+        "+(10 to 16)% to Fire Spell Damage",
+        "-(9 to 12)% to Enemy Fire Resistance",
+        "+(6 to 9) to Meteor Shower",
+        "Physical Resist 2%",
+        "1% Reanimate as: Accursed Demihuman",
+        "Socketed (2)"
       ]
     },
     {
       "tier": "Tier 3",
-      "char": "Amazon Only",
       "damage": [
-        "Two-Hand Damage: (124 - 142) to (173 - 204)"
+        "One-Hand Damage: 13 to 14"
       ],
       "requirement": [
-        "Required Level: 48",
-        "Required Dexterity: 290",
-        "Item Level: 53",
-        "Dexterity Damage Bonus: (0.25 per Dexterity)%"
+        "Assassin Only",
+        "Required Level: 37",
+        "Required Dexterity: 39",
+        "Item Level: 41"
       ],
       "attribute": [
-        "3% Chance to cast level 11 Phalanx on Kill",
-        "3% Chance to cast level 14 Celerity on Kill",
-        "35% Attack Speed",
-        "+(126 to 149)% Enhanced Damage",
-        "Adds (36 to 45)-(51 to 70) damage",
-        "(31 to 35)% Chance of Uninterruptable Attack",
-        "30% Magic Find",
-        "Socketed (5)"
+        "40% Cast Speed",
+        "+(17 to 23)% to Fire Spell Damage",
+        "-(13 to 16)% to Enemy Fire Resistance",
+        "+(10 to 13) to Meteor Shower",
+        "Physical Resist 3%",
+        "(1 to 2)% Reanimate as: Accursed Demihuman",
+        "Socketed (2)"
       ]
     },
     {
       "tier": "Tier 4",
-      "char": "Amazon Only",
       "damage": [
-        "Two-Hand Damage: (168 - 187) to (230 - 263)"
+        "One-Hand Damage: 15 to 16"
       ],
       "requirement": [
-        "Required Level: 57",
-        "Required Dexterity: 570",
-        "Item Level: 90",
-        "Dexterity Damage Bonus: (0.25 per Dexterity)%"
+        "Assassin Only",
+        "Required Level: 46",
+        "Required Dexterity: 83",
+        "Item Level: 73"
       ],
       "attribute": [
-        "4% Chance to cast level 13 Phalanx on Kill",
-        "4% Chance to cast level 20 Celerity on Kill",
-        "40% Attack Speed",
-        "+(149 to 171)% Enhanced Damage",
-        "Adds (51 to 60)-(71 to 90) damage",
-        "(36 to 40)% Chance of Uninterruptable Attack",
-        "40% Magic Find",
-        "Socketed (6)"
+        "50% Cast Speed",
+        "+(24 to 30)% to Fire Spell Damage",
+        "-(17 to 20)% to Enemy Fire Resistance",
+        "+(14 to 17) to Meteor Shower",
+        "Physical Resist 4%",
+        "2% Reanimate as: Accursed Demihuman",
+        "Socketed (3)"
       ]
     }
   ]
